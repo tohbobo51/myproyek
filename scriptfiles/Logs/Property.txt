@@ -1,0 +1,114 @@
+[16/02/2023 - 05:06:58] - [HOUSE]: CelosX membeli rumah id 1 seharga $4!
+[18/02/2023 - 03:13:10] - [VEH]: CelosX membeli kendaraan seharga $3,000 model Sentinel(405)!
+[19/02/2023 - 11:55:01] - [HOUSE]: CelosX membeli rumah id 1 seharga $1!
+[20/02/2023 - 19:19:45] - [VEH]: CelosX menyewa kendaraan seharga $100 /one days model BMX(481)!
+[20/02/2023 - 19:19:57] - [VEH]: CelosX menyewa kendaraan seharga $150 /one days model Mountain Bike(510)!
+[20/02/2023 - 19:22:50] - [VEH]: CelosX membeli kendaraan seharga $150 model Mountain Bike(510)!
+[20/02/2023 - 22:13:40] - [VEH]: CelosX menyewa kendaraan seharga $100 /one days model BMX(481)!
+[20/02/2023 - 22:15:26] - [VEH]: CelosX menyewa kendaraan seharga $150 /one days model Mountain Bike(510)!
+[20/02/2023 - 22:20:29] - [VEH]: CelosX menyewa kendaraan seharga $150 /one days model Mountain Bike(510)!
+[21/02/2023 - 05:52:59] - [VEH]: CelosX membeli kendaraan seharga $5,000 model Elegant(507)!
+[21/02/2023 - 05:54:21] - [VEH]: CelosX membeli kendaraan seharga $5,000 model Savanna(567)!
+[21/02/2023 - 05:55:38] - [VEH]: Cecep Kolay membeli kendaraan seharga $4,000 model Broadway(575)!
+[21/02/2023 - 05:56:05] - [VEH]: Cecep Kolay membeli kendaraan seharga $4,000 model Blade(536)!
+[21/02/2023 - 07:49:21] - [VEH]: CelosX membeli kendaraan seharga $9,000 model Comet(480)!
+[21/02/2023 - 08:27:18] - [VEH]: CelosX menyewa kendaraan seharga $100 /one days model BMX(481)!
+[22/02/2023 - 06:38:00] - [VEH]: CelosX menyewa kendaraan seharga $100 /one days model BMX(481)!
+[22/02/2023 - 20:21:00] - [VEH]: CelosX menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[24/02/2023 - 20:15:00] - [VEH]: CelosX membeli kendaraan seharga $4,000 model Tornado(576)!
+[12/03/2023 - 22:06:01] - [VEH]: Cecep June membeli kendaraan seharga $4,250 model Wayfarer(586)!
+[12/03/2023 - 22:06:25] - [VEH]: Cecep June membeli kendaraan seharga $4,250 model Wayfarer(586)!
+[12/03/2023 - 22:06:37] - [VEH]: Cecep June membeli kendaraan seharga $4,500 model Moonbeam(418)!
+[12/03/2023 - 22:08:25] - [VEH]: Cecep June membeli kendaraan seharga $4,250 model Wayfarer(586)!
+[12/03/2023 - 22:08:47] - [VEH]: Cecep June membeli kendaraan seharga $2,500 model BF-400(581)!
+[12/03/2023 - 22:08:53] - [VEH]: Cecep June membeli kendaraan seharga $4,500 model Moonbeam(418)!
+[13/03/2023 - 01:06:35] - [VEH]: g4nee membeli kendaraan seharga $4,250 model Wayfarer(586)!
+[13/03/2023 - 01:15:14] - [VEH]: Indra Frimawan menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[13/03/2023 - 01:32:25] - [VEH]: Indra Frimawan menyewa kendaraan seharga $100 /one days model BMX(481)!
+[15/03/2023 - 00:36:09] - [VEH]: Cecep June menyewa kendaraan seharga $100 /one days model BMX(481)!
+[15/03/2023 - 00:36:28] - [VEH]: Cecep June menyewa kendaraan seharga $100 /one days model BMX(481)!
+[15/03/2023 - 00:38:07] - [VEH]: Cecep June menyewa kendaraan seharga $100 /one days model BMX(481)!
+[15/03/2023 - 00:38:14] - [VEH]: Cecep June menyewa kendaraan seharga $100 /one days model BMX(481)!
+[15/03/2023 - 00:38:18] - [VEH]: Cecep June menyewa kendaraan seharga $100 /one days model BMX(481)!
+[15/03/2023 - 00:47:22] - [VEH]: Cecep June menyewa kendaraan seharga $100 /one days model BMX(481)!
+[15/03/2023 - 01:54:16] - [VEH]: g4nee menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[16/03/2023 - 23:33:30] - [VEH]: g4nee menyewa kendaraan seharga $100 /one days model BMX(481)!
+[18/03/2023 - 12:37:13] - [VEH]: Cecep June menyewa kendaraan seharga $100 /one days model BMX(481)!
+[31/03/2023 - 05:52:46] - [VEH]: g4nee memberikan kendaraan model Sultan(560) ke g4nee!
+[07/04/2023 - 02:25:29] - [VEH]: zhidanptrsyh  menyewa kendaraan seharga $100 /one days model BMX(481)!
+[23/04/2023 - 14:51:51] - [VEH]: Mikasa menyewa kendaraan seharga $100 /one days model BMX(481)!
+[26/04/2023 - 23:56:26] - [VEH]: Mikasa membeli kendaraan seharga $100 model BMX(481)!
+[18/05/2023 - 09:08:10] - [VEH]: Mikasa membeli kendaraan seharga $50 model Bike(509)!
+[19/05/2023 - 06:08:24] - [VEH]: Ming Khems membeli kendaraan seharga $4,500 model Moonbeam(418)!
+[19/05/2023 - 06:16:08] - [VEH]: Ming Khems membeli kendaraan seharga $4,000 model Burrito(482)!
+[19/05/2023 - 06:18:34] - [VEH]: Mikasa membeli kendaraan seharga $4,000 model Burrito(482)!
+[19/05/2023 - 06:31:15] - [VEH]: Mikasa membeli kendaraan seharga $2,000 model Vincent(540)!
+[19/05/2023 - 06:34:20] - [VEH]: Ming Khems membeli kendaraan seharga $2,000 model Vincent(540)!
+[19/05/2023 - 06:34:49] - [VEH]: Ming Khems membeli kendaraan seharga $2,000 model Vincent(540)!
+[19/05/2023 - 06:39:02] - [VEH]: Ming Khems membeli kendaraan seharga $3,000 model Yosemite(554)!
+[19/05/2023 - 06:45:44] - [VEH]: Mikasa membeli kendaraan seharga $4,500 model Moonbeam(418)!
+[19/05/2023 - 06:46:35] - [VEH]: Mikasa membeli kendaraan seharga $4,000 model Burrito(482)!
+[19/05/2023 - 07:27:56] - [VEH]: Ming Khems membeli kendaraan seharga $3,000 model Yosemite(554)!
+[19/05/2023 - 07:30:33] - [VEH]: Ming Khems membeli kendaraan seharga $3,000 model Yosemite(554)!
+[19/05/2023 - 07:46:54] - [VEH]: Ming Khems membeli kendaraan seharga $3,000 model Yosemite(554)!
+[19/05/2023 - 07:58:25] - [VEH]: Ming Khems membeli kendaraan seharga $2,500 model Club(589)!
+[19/05/2023 - 08:09:29] - [VEH]: Ming Khems membeli kendaraan seharga $3,500 model Sanchez(468)!
+[19/05/2023 - 08:10:54] - [VEH]: Ming Khems membeli kendaraan seharga $50 model Bike(509)!
+[19/05/2023 - 08:37:47] - [VEH]: Ming Khems membeli kendaraan seharga $14,000 model Sultan(560)!
+[19/05/2023 - 11:02:46] - [VEH]: Mikasa membeli kendaraan seharga $2,500 model Club(589)!
+[19/05/2023 - 11:07:09] - [VEH]: Ming Khems membeli kendaraan seharga $2,500 model Hustler(545)!
+[19/05/2023 - 11:24:05] - [VEH]: Ming Khems membeli kendaraan seharga $1,500 model Buccaneer(518)!
+[19/05/2023 - 11:42:00] - [VEH]: Ming Khems membeli kendaraan seharga $80 model Mountain Bike(510)!
+[19/05/2023 - 12:17:26] - [VEH]: Ming Khems membeli kendaraan seharga $4,750 model PCJ-600(461)!
+[19/05/2023 - 12:42:53] - [VEH]: Mikasa membeli kendaraan seharga $14,000 model Sultan(560)!
+[19/05/2023 - 13:19:47] - [VEH]: Ming Khems membeli kendaraan seharga $80 model Mountain Bike(510)!
+[19/05/2023 - 13:23:19] - [VEH]: Mikasa membeli kendaraan seharga $14,000 model Sultan(560)!
+[19/05/2023 - 13:24:03] - [VEH]: Mikasa membeli kendaraan seharga $14,000 model Sultan(560)!
+[19/05/2023 - 13:37:32] - [VEH]: Van Delor menyewa kendaraan seharga $100 /one days model BMX(481)!
+[19/05/2023 - 14:00:33] - [VEH]: Kems membeli kendaraan seharga $14,000 model Sultan(560)!
+[19/05/2023 - 14:02:33] - [VEH]: Mochi Sky menyewa kendaraan seharga $100 /one days model BMX(481)!
+[19/05/2023 - 20:08:37] - [VEH]: Virja Abizzar menyewa kendaraan seharga $100 /one days model BMX(481)!
+[19/05/2023 - 20:16:49] - [VEH]: Kems membeli kendaraan seharga $7,000 model Huntley(579)!
+[19/05/2023 - 21:04:16] - [VEH]: Ming Khems membeli kendaraan seharga $3,500 model Remington(534)!
+[19/05/2023 - 22:26:25] - [VEH]: Ridho Roma menyewa kendaraan seharga $100 /one days model BMX(481)!
+[19/05/2023 - 22:35:27] - [VEH]: Ming Khems menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[19/05/2023 - 22:49:40] - [VEH]: Ridho Roma menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[19/05/2023 - 22:49:48] - [VEH]: Ridho Roma menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[19/05/2023 - 22:55:58] - [VEH]: Ridho Roma menyewa kendaraan seharga $100 /one days model BMX(481)!
+[19/05/2023 - 22:56:07] - [VEH]: Ridho Roma menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[19/05/2023 - 22:57:54] - [VEH]: Ming Khems menyewa kendaraan seharga $100 /one days model BMX(481)!
+[19/05/2023 - 22:58:23] - [VEH]: Ming Khems menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[19/05/2023 - 22:59:12] - [VEH]: Idan membeli kendaraan seharga $2,500 model Hustler(545)!
+[19/05/2023 - 23:09:21] - [VEH]: Idan membeli kendaraan seharga $4,250 model Wayfarer(586)!
+[19/05/2023 - 23:22:28] - [VEH]: Ming Khems menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[20/05/2023 - 02:48:10] - [VEH]: Ming Khems menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[20/05/2023 - 02:54:34] - [VEH]: Idan membeli kendaraan seharga $5,500 model FCR-900(521)!
+[20/05/2023 - 18:52:20] - [VEH]: Ming Khems membeli kendaraan seharga $5,500 model FCR-900(521)!
+[20/05/2023 - 19:50:05] - [VEH]: Ming Khems membeli kendaraan seharga $2,000 model Blista Compact(496)!
+[20/05/2023 - 20:06:26] - [VEH]: Ridho Roma menyewa kendaraan seharga $100 /one days model BMX(481)!
+[20/05/2023 - 20:30:02] - [VEH]: Ming Khems membeli kendaraan seharga $8,000 model Picador(600)!
+[20/05/2023 - 22:05:26] - [VEH]: Ming Khems membeli kendaraan seharga $2,500 model Club(589)!
+[20/05/2023 - 22:11:08] - [VEH]: Nabila JKT menyewa kendaraan seharga $100 /one days model BMX(481)!
+[20/05/2023 - 22:14:27] - [VEH]: Bodrex Sutejo menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[20/05/2023 - 23:15:13] - [VEH]: Ming Khems membeli kendaraan seharga $3,500 model Remington(534)!
+[21/05/2023 - 00:34:18] - [VEH]: Ming Khems membeli kendaraan seharga $100 model BMX(481)!
+[21/05/2023 - 00:45:40] - [VEH]: Ming Khems menyewa kendaraan seharga $100 /one days model BMX(481)!
+[21/05/2023 - 01:24:41] - [VEH]: Ming Khems membeli kendaraan seharga $14,000 model Sultan(560)!
+[21/05/2023 - 05:47:05] - [VEH]: Danuk membeli kendaraan seharga $-1 model Glendale(604)!
+[23/05/2023 - 01:05:24] - [VEH]: Galang Sutejo menyewa kendaraan seharga $100 /one days model BMX(481)!
+[25/05/2023 - 23:26:29] - [VEH]: Furqon Abdillah menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[25/05/2023 - 23:36:10] - [VEH]: Furqon Abdillah menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[27/05/2023 - 05:16:34] - [VEH]: Mings menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[27/05/2023 - 05:26:58] - [VEH]: Mings menyewa kendaraan seharga $100 /one days model BMX(481)!
+[27/05/2023 - 05:29:55] - [VEH]: Mings menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[27/05/2023 - 05:31:42] - [VEH]: Ming Sutejo menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[27/05/2023 - 08:56:23] - [VEH]: Furqon menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[27/05/2023 - 08:56:47] - [VEH]: Furqon menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[27/05/2023 - 10:47:03] - [VEH]: Mamat Kopek menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[27/05/2023 - 23:22:21] - [VEH]: MEKI menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[29/05/2023 - 05:55:55] - [VEH]: Mings menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[29/05/2023 - 21:24:21] - [VEH]: Ming Sutejo menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[03/06/2023 - 18:13:26] - [VEH]: Ming Khems menyewa kendaraan seharga $100 /one days model BMX(481)!
+[03/06/2023 - 18:14:07] - [VEH]: Mings menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[03/06/2023 - 18:18:03] - [VEH]: Mings menyewa kendaraan seharga $80 /one days model Mountain Bike(510)!
+[03/06/2023 - 18:18:04] - [VEH]: Mings menyewa kendaraan seharga $100 /one days model BMX(481)!

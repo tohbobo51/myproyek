@@ -1,0 +1,890 @@
+[05/02/2023 - 02:04:07] - [CHAT] Cecep Lembang: 24.06
+[05/02/2023 - 04:33:13] - [CHAT] Cecep Lembang: .cc
+[05/02/2023 - 09:08:08] - [CHAT] Cecep Badung: hktpk
+[05/02/2023 - 09:15:33] - [CHAT] Sipaling Project: w 
+[05/02/2023 - 09:25:24] - [CHAT] Sipaling Project: gotodoor 3
+[05/02/2023 - 10:04:15] - [CHAT] Sipaling Project: y
+[05/02/2023 - 10:23:38] - [CHAT] Sipaling Project: oveh 5
+[05/02/2023 - 10:51:12] - [CHAT] Sipaling Project: wd
+[05/02/2023 - 22:26:08] - [CHAT] Sipaling Project: 
+[06/02/2023 - 23:59:41] - [CHAT] Kevin Sanjaya: q/
+[07/02/2023 - 03:33:54] - [CHAT] Kevin Sanjaya: f/engine
+[07/02/2023 - 03:34:31] - [CHAT] Kevin Sanjaya: y
+[07/02/2023 - 05:03:53] - [CHAT] Kevin Sanjaya: q/
+[07/02/2023 - 05:23:41] - [CHAT] Kevin Sanjaya: y/setleader 0 6
+[07/02/2023 - 06:19:11] - [CHAT] Kevin Sanjaya: [hktp
+[07/02/2023 - 08:05:41] - [CHAT] Kevin Sanjaya: mypv
+[07/02/2023 - 22:35:43] - [CHAT] Kevin Sanjaya: q/
+[07/02/2023 - 23:53:59] - [CHAT] Kevin Sanjaya: q
+[09/02/2023 - 01:08:08] - [CHAT] Medok Always: reviveall
+[09/02/2023 - 01:25:56] - [CHAT] Medok Always: q
+[09/02/2023 - 04:30:09] - [CHAT] Medok Always: q/
+[09/02/2023 - 05:42:30] - [CHAT] Medok Always: s
+[09/02/2023 - 06:20:39] - [CHAT] Cecep Dabes: sa
+[09/02/2023 - 19:20:07] - [CHAT] Cecep Kolay: q/
+[09/02/2023 - 19:25:04] - [CHAT] Cecep Kolay: y/setleader 0 0
+[09/02/2023 - 23:34:06] - [CHAT] Cecep Kolay: 
+[09/02/2023 - 23:50:56] - [CHAT] Cecep Kolay: 
+[09/02/2023 - 23:50:58] - [CHAT] Cecep Kolay: 
+[09/02/2023 - 23:51:00] - [CHAT] Cecep Kolay: 
+[09/02/2023 - 23:51:01] - [CHAT] Cecep Kolay: 
+[09/02/2023 - 23:51:02] - [CHAT] Cecep Kolay: 
+[09/02/2023 - 23:51:04] - [CHAT] Cecep Kolay: 
+[09/02/2023 - 23:51:04] - [CHAT] Cecep Kolay: 
+[09/02/2023 - 23:51:05] - [CHAT] Cecep Kolay: 
+[09/02/2023 - 23:51:08] - [CHAT] Cecep Kolay: 
+[09/02/2023 - 23:51:09] - [CHAT] Cecep Kolay: 
+[09/02/2023 - 23:51:10] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 00:30:37] - [CHAT] Cecep Kolay: s
+[10/02/2023 - 00:30:41] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 00:30:41] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 00:30:41] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 00:30:41] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 00:45:26] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 00:45:28] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 00:45:38] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 00:45:39] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 00:45:39] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 00:45:40] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 00:45:41] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 00:45:42] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 01:14:29] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 01:14:30] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 01:24:33] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 01:24:34] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 01:26:24] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 04:34:45] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 04:49:29] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 04:51:34] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 04:53:31] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 04:56:57] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 07:07:56] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 07:14:25] - [CHAT] cecep: 
+[10/02/2023 - 07:14:31] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 07:14:33] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 07:15:18] - [CHAT] Cecep Kolay: q
+[10/02/2023 - 07:16:34] - [CHAT] cecep: 
+[10/02/2023 - 07:16:35] - [CHAT] cecep: 
+[10/02/2023 - 07:16:35] - [CHAT] cecep: 
+[10/02/2023 - 07:16:35] - [CHAT] cecep: 
+[10/02/2023 - 07:16:37] - [CHAT] cecep: 
+[10/02/2023 - 07:16:37] - [CHAT] cecep: 
+[10/02/2023 - 07:16:39] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 07:16:42] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 07:17:57] - [CHAT] cecep: 
+[10/02/2023 - 07:17:58] - [CHAT] cecep: 
+[10/02/2023 - 07:23:49] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 07:23:49] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 07:23:50] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 07:23:50] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 07:23:50] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 07:23:50] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 07:24:07] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 07:24:11] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 07:24:13] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 07:24:16] - [CHAT] Cecep Kolay: 
+[10/02/2023 - 14:28:16] - [CHAT] Cecep Kolay: `/q
+[10/02/2023 - 18:32:55] - [CHAT] Cecep Kolay: q/
+[11/02/2023 - 01:14:46] - [CHAT] Cecep Kolay: q
+[11/02/2023 - 04:17:04] - [CHAT] Cecep Kolay: q
+[11/02/2023 - 04:47:52] - [CHAT] Cecep Kolay: q/
+[11/02/2023 - 04:55:41] - [CHAT] Cecep Kolay: mypv
+[11/02/2023 - 06:05:07] - [CHAT] Cecep Kolay: y
+[11/02/2023 - 06:13:45] - [CHAT] Cecep Kolay: q
+[11/02/2023 - 08:56:58] - [CHAT] Cecep: t/cc
+[12/02/2023 - 00:59:36] - [CHAT] Cecep: w/q
+[12/02/2023 - 02:35:29] - [CHAT] Cecep Kolay: h/q
+[12/02/2023 - 03:29:41] - [CHAT] Cecep Kolay: ast
+[12/02/2023 - 03:29:42] - [CHAT] Cecep Kolay: sa
+[12/02/2023 - 04:37:12] - [CHAT] Cecep Kolay: sethp 90
+[12/02/2023 - 19:30:55] - [CHAT] CelosX: a/gotoveh 102
+[13/02/2023 - 04:02:26] - [CHAT] Cecep Kolay: q/
+[13/02/2023 - 06:30:06] - [CHAT] CelosX: q
+[13/02/2023 - 07:30:14] - [CHAT] Afakah Bug: ats
+[13/02/2023 - 19:36:48] - [CHAT] Cecep Kolay: w/gotoveh 102
+[13/02/2023 - 22:15:00] - [CHAT] CelosX: w
+[13/02/2023 - 22:55:06] - [CHAT] Cecep Kolay: asdas
+[13/02/2023 - 22:55:40] - [CHAT] CelosX: asd
+[13/02/2023 - 23:07:56] - [CHAT] Cecep Kolay: q
+[13/02/2023 - 23:07:58] - [CHAT] Cecep Kolay: asdas
+[14/02/2023 - 00:38:29] - [CHAT] Ucok Lancip: asdas
+[14/02/2023 - 00:38:29] - [CHAT] Ucok Lancip: asda
+[14/02/2023 - 01:23:46] - [CHAT] Cecep Kolay: q/
+[14/02/2023 - 02:08:27] - [CHAT] Cecep Kolay: .modif
+[14/02/2023 - 04:02:22] - [CHAT] Cecep Kolay: sads
+[14/02/2023 - 04:31:06] - [CHAT] Cecep Kolay: c
+[14/02/2023 - 07:42:37] - [CHAT] CelosX: p
+[14/02/2023 - 07:42:42] - [CHAT] CelosX: asda
+[14/02/2023 - 09:14:05] - [CHAT] CelosX: q
+[14/02/2023 - 09:23:58] - [CHAT] Cecep Kolay: q
+[14/02/2023 - 09:51:02] - [CHAT] Cecep Kolay: q
+[14/02/2023 - 09:59:46] - [CHAT] CelosX: q
+[14/02/2023 - 10:09:22] - [CHAT] CelosX: time 6
+[14/02/2023 - 11:51:24] - [CHAT] Cecep Kolay: 5
+[14/02/2023 - 12:29:33] - [CHAT] CelosX: hay adik adik
+[14/02/2023 - 12:51:41] - [CHAT] Cecep Kolay: q
+[14/02/2023 - 19:07:55] - [CHAT] CelosX: engine
+[14/02/2023 - 19:07:59] - [CHAT] CelosX: engine/
+[14/02/2023 - 19:24:21] - [CHAT] Cecep Kolay: v
+[14/02/2023 - 21:43:43] - [CHAT] CelosX: 11688
+[14/02/2023 - 23:36:35] - [CHAT] CelosX: q/
+[15/02/2023 - 00:32:17] - [CHAT] CelosX: q/
+[15/02/2023 - 00:33:26] - [CHAT] CelosX: t/q
+[15/02/2023 - 00:37:43] - [CHAT] CelosX: i
+[15/02/2023 - 00:37:43] - [CHAT] CelosX: i
+[15/02/2023 - 00:55:43] - [CHAT] CelosX: q
+[15/02/2023 - 01:19:56] - [CHAT] Cecep Kolay: t/setjob 0 12
+[15/02/2023 - 02:52:05] - [CHAT] Boong Luwh: q/
+[15/02/2023 - 03:46:18] - [CHAT] Cecep Kolay: x
+[15/02/2023 - 04:15:56] - [CHAT] Cecep Kolay: q/
+[15/02/2023 - 05:16:50] - [CHAT] Cecep Kolay: q
+[15/02/2023 - 06:24:10] - [CHAT] CelosX: q
+[15/02/2023 - 06:43:28] - [CHAT] CelosX: qq/q
+[15/02/2023 - 06:44:50] - [CHAT] CelosX: .cc
+[15/02/2023 - 10:27:44] - [CHAT] Cecep Kolay: as
+[15/02/2023 - 10:27:47] - [CHAT] Cecep Kolay: asdas
+[15/02/2023 - 11:10:59] - [CHAT] Cecep Kolay: q
+[15/02/2023 - 11:13:32] - [CHAT] Cecep Kolay: 
+[15/02/2023 - 13:06:01] - [CHAT] CelosX: sethp 45
+[15/02/2023 - 17:48:43] - [CHAT] CelosX: wt
+[16/02/2023 - 03:11:07] - [CHAT] CelosX: q
+[16/02/2023 - 05:06:18] - [CHAT] CelosX: as
+[16/02/2023 - 07:51:19] - [CHAT] Cecep Kolay: q
+[16/02/2023 - 09:12:01] - [CHAT] Cecep Kolay: q
+[16/02/2023 - 09:12:17] - [CHAT] Cecep Kolay: q
+[16/02/2023 - 10:13:18] - [CHAT] Cecep Kolay: gotopombensin 0
+[16/02/2023 - 11:03:07] - [CHAT] Cecep Kolay: 
+[17/02/2023 - 01:04:48] - [CHAT] Cecep Kolay: q/
+[17/02/2023 - 01:09:37] - [CHAT] Cecep Kolay: q
+[17/02/2023 - 03:23:54] - [CHAT] Cecep Kolay: q
+[17/02/2023 - 03:42:07] - [CHAT] Cecep Kolay: q
+[17/02/2023 - 08:14:53] - [CHAT] Cecep Kolay: engine
+[17/02/2023 - 09:56:03] - [CHAT] CelosX: 
+[17/02/2023 - 09:56:09] - [CHAT] CelosX: y
+[18/02/2023 - 00:07:49] - [CHAT] CelosX: q/
+[18/02/2023 - 01:25:33] - [CHAT] CelosX: unfreeze 0
+[18/02/2023 - 01:30:18] - [CHAT] Cecep Kolay: 4/engine
+[18/02/2023 - 07:27:56] - [CHAT] Cecep Kolay: q/
+[18/02/2023 - 22:20:55] - [CHAT] CelosX: q
+[19/02/2023 - 00:23:24] - [CHAT] CelosX: q
+[19/02/2023 - 03:29:09] - [CHAT] CelosX: q
+[19/02/2023 - 10:01:04] - [CHAT] CelosX: @kepo bet anjing
+[19/02/2023 - 10:02:42] - [CHAT] Cecep Kolay: @tetete
+[19/02/2023 - 10:04:43] - [CHAT] Cecep Kolay: @ya anjing
+[19/02/2023 - 10:07:07] - [CHAT] Cecep Kolay: @bacot bet memek
+[19/02/2023 - 10:08:56] - [CHAT] CelosX: @lagi narik bis bentar
+[19/02/2023 - 10:09:04] - [CHAT] CelosX: @yaudah
+[19/02/2023 - 11:01:40] - [CHAT] Cecep Kolay: @lu dimana
+[19/02/2023 - 11:01:45] - [CHAT] Cecep Kolay: @ini gua otw
+[19/02/2023 - 11:15:39] - [CHAT] Cecep Kolay: @kontol spam anjing
+[19/02/2023 - 11:24:11] - [CHAT] CelosX: asasdas
+[19/02/2023 - 11:55:30] - [CHAT] CelosX: 
+[19/02/2023 - 16:13:39] - [CHAT] CelosX: a/cc
+[19/02/2023 - 23:25:02] - [CHAT] CelosX: @bacot anjing gua lagi di kanpol
+[20/02/2023 - 04:36:45] - [CHAT] CelosX: q
+[20/02/2023 - 04:40:32] - [CHAT] CelosX: q
+[20/02/2023 - 09:42:10] - [CHAT] Cecep Kolay: q
+[21/02/2023 - 02:36:19] - [CHAT] CelosX: q
+[21/02/2023 - 06:05:07] - [CHAT] CelosX: q
+[21/02/2023 - 09:06:31] - [CHAT] CelosX: q
+[22/02/2023 - 04:33:36] - [CHAT] CelosX: n/q
+[22/02/2023 - 04:37:55] - [CHAT] CelosX: @bacot
+[22/02/2023 - 06:38:33] - [CHAT] CelosX: q
+[23/02/2023 - 00:19:09] - [CHAT] Cecep Kolay: sa
+[23/02/2023 - 00:19:10] - [CHAT] Cecep Kolay: s
+[23/02/2023 - 01:41:04] - [CHAT] CelosX: q
+[23/02/2023 - 07:44:41] - [CHAT] CelosX: slap 0
+[23/02/2023 - 07:44:41] - [CHAT] CelosX: slap 0
+[23/02/2023 - 07:44:50] - [CHAT] CelosX: slap 0
+[27/02/2023 - 03:56:45] - [CHAT] CelosX: q
+[27/02/2023 - 07:02:26] - [CHAT] CelosX: 
+[27/02/2023 - 22:24:45] - [CHAT] Cecep Kolay: t
+[27/02/2023 - 22:25:31] - [CHAT] Cecep Kolay: q
+[27/02/2023 - 22:40:43] - [CHAT] Cecep Kolay: q
+[01/03/2023 - 01:33:36] - [CHAT] Cecep Kolay: q
+[01/03/2023 - 03:43:08] - [CHAT] Cecep Kolay: q
+[01/03/2023 - 03:43:09] - [CHAT] Cecep Kolay: .q
+[01/03/2023 - 06:07:36] - [CHAT] Cecep Kolay: q/
+[01/03/2023 - 07:59:59] - [CHAT] Cecep Kolay: s
+[01/03/2023 - 08:00:00] - [CHAT] Cecep Kolay: s
+[01/03/2023 - 08:00:01] - [CHAT] Cecep Kolay: ss
+[01/03/2023 - 08:33:56] - [CHAT] Cecep Kolay: q
+[01/03/2023 - 20:52:52] - [CHAT] CelosX: q
+[01/03/2023 - 23:01:05] - [CHAT] Cecep Kolay: as
+[01/03/2023 - 23:01:08] - [CHAT] Cecep Kolay: as
+[01/03/2023 - 23:01:09] - [CHAT] Cecep Kolay: as
+[01/03/2023 - 23:01:09] - [CHAT] Cecep Kolay: as
+[01/03/2023 - 23:12:43] - [CHAT] Cecep Kolay: sa
+[01/03/2023 - 23:14:58] - [CHAT] CelosX: s
+[02/03/2023 - 01:29:11] - [CHAT] CelosX: sendto 0 lockerpj
+[02/03/2023 - 01:29:12] - [CHAT] CelosX: sendto 0 lockerp
+[02/03/2023 - 02:02:14] - [CHAT] Cecep Kolay: y
+[02/03/2023 - 06:17:24] - [CHAT] Cecep Kolay: q/
+[02/03/2023 - 06:19:27] - [CHAT] Cecep Kolay: Q
+[02/03/2023 - 09:42:18] - [CHAT] Cecep Kolay: t
+[02/03/2023 - 09:42:37] - [CHAT] Cecep Kolay: q
+[02/03/2023 - 11:26:03] - [CHAT] Cecep Kolay: as
+[03/03/2023 - 00:50:37] - [CHAT] Cecep Kolay: q
+[03/03/2023 - 01:15:24] - [CHAT] Cecep Kolay: q
+[03/03/2023 - 01:18:16] - [CHAT] Cecep Kolay: bom
+[03/03/2023 - 02:16:37] - [CHAT] Cecep Kolay: q
+[03/03/2023 - 02:55:26] - [CHAT] CelosX: en
+[03/03/2023 - 05:26:44] - [CHAT] Cecep Kolay: q
+[05/03/2023 - 08:17:37] - [CHAT] g4nee: q
+[06/03/2023 - 09:51:00] - [CHAT] Cecep Bolang: q
+[06/03/2023 - 21:45:05] - [CHAT] Cecep Bolang: q
+[07/03/2023 - 06:51:04] - [CHAT] Cecep Bolang: q/
+[08/03/2023 - 04:08:23] - [CHAT] Cecep Bolang: q
+[08/03/2023 - 08:14:25] - [CHAT] Cecep Bolang: w/h
+[09/03/2023 - 00:18:37] - [CHAT] g4nee: 
+[09/03/2023 - 00:32:51] - [CHAT] Cecep Bolang: .gotoco 1184.520996 -1366.473388 13.341155 0
+[09/03/2023 - 04:48:37] - [CHAT] g4nee: i
+[09/03/2023 - 11:32:00] - [CHAT] Cecep Bolang: destroyvehjob
+[09/03/2023 - 22:47:57] - [CHAT] Cecep Bolang: y
+[10/03/2023 - 00:32:59] - [CHAT] Cecep Bolang: fixme
+[10/03/2023 - 01:48:13] - [CHAT] Cecep Bolang: i
+[10/03/2023 - 03:48:21] - [CHAT] Cecep Bolang: y
+[10/03/2023 - 04:49:15] - [CHAT] g4nee: reviveall
+[10/03/2023 - 10:20:35] - [CHAT] Cecep Bolang: y/q
+[11/03/2023 - 00:25:14] - [CHAT] Cecep Bolang: sad
+[11/03/2023 - 04:28:21] - [CHAT] Cecep Bolang: estbar
+[11/03/2023 - 08:56:54] - [CHAT] Cecep June: ?q
+[11/03/2023 - 09:28:44] - [CHAT] Cecep June: s
+[12/03/2023 - 00:17:35] - [CHAT] g4nee: y/bin
+[12/03/2023 - 01:00:17] - [CHAT] Cecep June: q
+[12/03/2023 - 04:37:27] - [CHAT] g4nee: .q'
+[12/03/2023 - 09:45:30] - [CHAT] Cecep June: setleader 0 7
+[12/03/2023 - 22:45:58] - [CHAT] Cecep June: q
+[13/03/2023 - 02:14:39] - [CHAT] g4nee: q/
+[13/03/2023 - 05:41:12] - [CHAT] Cecep June: `/cc
+[14/03/2023 - 02:53:47] - [CHAT] Cecep June: h/
+[14/03/2023 - 06:14:15] - [CHAT] Cecep June: nn
+[14/03/2023 - 06:30:00] - [CHAT] Cecep June: i
+[14/03/2023 - 08:24:24] - [CHAT] g4nee: ?veh 453
+[14/03/2023 - 08:50:20] - [CHAT] g4nee: a
+[14/03/2023 - 09:26:25] - [CHAT] g4nee: .q
+[14/03/2023 - 11:40:21] - [CHAT] Cecep June: t/cc
+[14/03/2023 - 11:42:51] - [CHAT] Cecep June: as/dsa
+[14/03/2023 - 21:00:25] - [CHAT] Cecep June: pagesize 16
+[14/03/2023 - 21:36:18] - [CHAT] g4nee: pake count
+[14/03/2023 - 21:36:21] - [CHAT] g4nee: nanti di ++
+[14/03/2023 - 22:22:22] - [CHAT] g4nee: cc
+[14/03/2023 - 22:58:55] - [CHAT] g4nee: fxme
+[15/03/2023 - 00:35:29] - [CHAT] g4nee: q
+[15/03/2023 - 00:48:05] - [CHAT] g4nee: y
+[15/03/2023 - 04:06:56] - [CHAT] g4nee: wt
+[15/03/2023 - 04:34:59] - [CHAT] g4nee: t
+[15/03/2023 - 04:40:32] - [CHAT] g4nee: q
+[15/03/2023 - 06:19:14] - [CHAT] g4nee: .cc
+[15/03/2023 - 06:36:47] - [CHAT] g4nee: ?i
+[15/03/2023 - 08:24:01] - [CHAT] g4nee: awt/q
+[15/03/2023 - 08:37:19] - [CHAT] g4nee: q
+[15/03/2023 - 09:32:27] - [CHAT] g4nee: w
+[15/03/2023 - 21:39:29] - [CHAT] cecep: .
+[16/03/2023 - 05:57:23] - [CHAT] Cecep June: time 5
+[16/03/2023 - 06:38:41] - [CHAT] Cecep June: q
+[16/03/2023 - 06:42:34] - [CHAT] Cecep June: v
+[16/03/2023 - 08:22:28] - [CHAT] g4nee: q
+[16/03/2023 - 16:54:40] - [CHAT] g4nee: t/i
+[16/03/2023 - 22:11:12] - [CHAT] Cecep June: mycar
+[16/03/2023 - 22:11:13] - [CHAT] Cecep June: mycars
+[17/03/2023 - 01:22:40] - [CHAT] Cecep June: q
+[17/03/2023 - 03:54:09] - [CHAT] g4nee: q
+[17/03/2023 - 04:21:21] - [CHAT] g4nee: a
+[17/03/2023 - 04:44:18] - [CHAT] g4nee: .gotoco 1924.960083 -1808.568115 12.666869 0
+[17/03/2023 - 04:55:52] - [CHAT] g4nee: w
+[17/03/2023 - 07:57:47] - [CHAT] g4nee: q
+[17/03/2023 - 08:38:46] - [CHAT] g4nee: 
+[17/03/2023 - 08:42:44] - [CHAT] g4nee: 
+[17/03/2023 - 23:17:47] - [CHAT] Cecep June: q/
+[17/03/2023 - 23:31:23] - [CHAT] g4nee: q
+[18/03/2023 - 02:17:36] - [CHAT] g4nee: y
+[18/03/2023 - 02:59:55] - [CHAT] g4nee: q
+[18/03/2023 - 03:45:36] - [CHAT] g4nee: sa
+[18/03/2023 - 03:45:40] - [CHAT] g4nee: asdasdasdasdsa
+[18/03/2023 - 03:46:41] - [CHAT] Cecep June: asd
+[18/03/2023 - 09:23:43] - [CHAT] Cecep June: fixme
+[19/03/2023 - 07:37:34] - [CHAT] g4nee: q
+[19/03/2023 - 08:03:11] - [CHAT] Cecep June: w/
+[19/03/2023 - 13:33:33] - [CHAT] Cecep June: q
+[19/03/2023 - 16:08:19] - [CHAT] Cecep June: q/
+[19/03/2023 - 17:21:12] - [CHAT] g4nee: q
+[20/03/2023 - 01:57:08] - [CHAT] g4nee: 
+[20/03/2023 - 01:57:20] - [CHAT] g4nee: 
+[20/03/2023 - 04:48:45] - [CHAT] g4nee: q
+[20/03/2023 - 07:56:19] - [CHAT] g4nee: `/clearallchat
+[20/03/2023 - 07:59:11] - [CHAT] g4nee: `/clearallchat
+[20/03/2023 - 15:23:08] - [CHAT] Cecep June: q/
+[20/03/2023 - 16:22:26] - [CHAT] g4nee: q
+[21/03/2023 - 00:54:24] - [CHAT] g4nee: t/q
+[21/03/2023 - 00:56:55] - [CHAT] Cecep June: q
+[21/03/2023 - 04:43:14] - [CHAT] Cecep June: q
+[21/03/2023 - 05:56:44] - [CHAT] Cecep June: aduty
+[21/03/2023 - 08:21:35] - [CHAT] g4nee: a
+[21/03/2023 - 12:56:47] - [CHAT] Cecep June: 2
+[21/03/2023 - 13:02:14] - [CHAT] g4nee: q
+[21/03/2023 - 13:15:55] - [CHAT] Cecep June: q/
+[21/03/2023 - 22:53:43] - [CHAT] Cecep June: q
+[22/03/2023 - 00:23:38] - [CHAT] Cecep June: vrm
+[22/03/2023 - 00:37:43] - [CHAT] Cecep June: q
+[22/03/2023 - 00:44:09] - [CHAT] Cecep June: q
+[22/03/2023 - 00:45:24] - [CHAT] Cecep June: q
+[22/03/2023 - 05:43:22] - [CHAT] g4nee: q
+[22/03/2023 - 05:51:29] - [CHAT] Cecep June: asd
+[22/03/2023 - 06:09:45] - [CHAT] Cecep June: q
+[22/03/2023 - 07:33:28] - [CHAT] g4nee: q
+[22/03/2023 - 07:43:31] - [CHAT] Cecep June: .s
+[22/03/2023 - 09:30:07] - [CHAT] g4nee: q
+[22/03/2023 - 10:36:34] - [CHAT] g4nee: q
+[22/03/2023 - 22:04:24] - [CHAT] g4nee: uijnmk
+[22/03/2023 - 22:43:39] - [CHAT] g4nee: t
+[23/03/2023 - 00:48:23] - [CHAT] Cecep June: w/en
+[23/03/2023 - 01:23:08] - [CHAT] Cecep June: q/
+[23/03/2023 - 01:28:15] - [CHAT] Cecep June: 2
+[23/03/2023 - 01:50:07] - [CHAT] g4nee: q
+[23/03/2023 - 02:07:18] - [CHAT] Cecep June: q/
+[23/03/2023 - 23:40:25] - [CHAT] Cecep June: q
+[23/03/2023 - 23:40:26] - [CHAT] Cecep June: q
+[23/03/2023 - 23:50:47] - [CHAT] Cecep June: clear
+[24/03/2023 - 00:22:24] - [CHAT] Cecep June: w/c
+[24/03/2023 - 01:52:20] - [CHAT] Cecep June: q
+[25/03/2023 - 00:32:04] - [CHAT] Cecep June: y/vrm
+[25/03/2023 - 01:25:48] - [CHAT] Cecep June: y
+[25/03/2023 - 01:28:07] - [CHAT] Cecep June: q/
+[26/03/2023 - 02:53:24] - [CHAT] g4nee:  bnhy/cc
+[26/03/2023 - 03:05:46] - [CHAT] Cecep June: y
+[27/03/2023 - 04:30:51] - [CHAT] Cecep June: q
+[27/03/2023 - 06:40:48] - [CHAT] Cecep June: 2
+[27/03/2023 - 06:40:56] - [CHAT] Cecep June: y
+[28/03/2023 - 03:40:40] - [CHAT] Cecep June: #1.f
+[28/03/2023 - 03:52:14] - [CHAT] g4nee: 1
+[28/03/2023 - 11:49:34] - [CHAT] Cecep June: '
+[29/03/2023 - 04:03:42] - [CHAT] Cecep June: royveh
+[29/03/2023 - 04:23:37] - [CHAT] Cecep June: helpbb
+[30/03/2023 - 02:39:11] - [CHAT] Cecep June: t/createpom
+[30/03/2023 - 04:07:38] - [CHAT] Cecep June: q
+[30/03/2023 - 04:32:09] - [CHAT] g4nee:  /e x
+[30/03/2023 - 06:04:40] - [CHAT] Cecep June: s
+[30/03/2023 - 10:19:48] - [CHAT] Cecep June: 120.00
+[30/03/2023 - 23:00:43] - [CHAT] g4nee: t/h
+[30/03/2023 - 23:47:40] - [CHAT] Cecep June: 
+[31/03/2023 - 01:38:38] - [CHAT] Cecep June: h
+[31/03/2023 - 07:54:11] - [CHAT] Cecep June: a
+[31/03/2023 - 17:42:45] - [CHAT] g4nee: q/
+[31/03/2023 - 17:55:41] - [CHAT] Cecep June: w/vrm
+[01/04/2023 - 01:31:15] - [CHAT] Cecep June: asd/sa
+[01/04/2023 - 04:15:46] - [CHAT] g4nee: w
+[01/04/2023 - 07:27:40] - [CHAT] Cecep June: q
+[02/04/2023 - 04:34:39] - [CHAT] Cecep June: q
+[02/04/2023 - 06:25:16] - [CHAT] g4nee: en
+[02/04/2023 - 06:40:37] - [CHAT] Cecep June: q/
+[02/04/2023 - 06:45:30] - [CHAT] Cecep June: q
+[03/04/2023 - 02:30:44] - [CHAT] Cecep June: i
+[03/04/2023 - 05:32:59] - [CHAT] Cecep June: []
+[03/04/2023 - 05:33:00] - [CHAT] Cecep June: [
+[03/04/2023 - 05:36:11] - [CHAT] Cecep June: q/
+[03/04/2023 - 05:48:41] - [CHAT] Cecep June: a
+[03/04/2023 - 05:49:00] - [CHAT] Cecep June: q
+[03/04/2023 - 06:21:27] - [CHAT] Cecep June: q/
+[03/04/2023 - 07:17:12] - [CHAT] Cecep June: q/
+[03/04/2023 - 07:44:11] - [CHAT] Cecep June: cc
+[04/04/2023 - 01:52:19] - [CHAT] Cecep June: w
+[04/04/2023 - 02:26:13] - [CHAT] Cecep June: vehname kar
+[04/04/2023 - 03:12:54] - [CHAT] Cecep June: paman/cc
+[04/04/2023 - 04:02:03] - [CHAT] Cecep June: `/i
+[04/04/2023 - 04:43:20] - [CHAT] Cecep June: q
+[04/04/2023 - 04:43:21] - [CHAT] Cecep June: q
+[04/04/2023 - 07:02:37] - [CHAT] Cecep June: ;
+[04/04/2023 - 08:36:57] - [CHAT] Cecep June: t
+[05/04/2023 - 05:19:41] - [CHAT] g4nee: t/cc
+[05/04/2023 - 07:01:45] - [CHAT] Cecep June: q
+[05/04/2023 - 07:30:39] - [CHAT] Cecep June: q
+[05/04/2023 - 08:50:00] - [CHAT] Cecep June: w/q
+[05/04/2023 - 18:46:54] - [CHAT] Cecep June: `/r
+[05/04/2023 - 23:37:54] - [CHAT] Cecep June: q
+[06/04/2023 - 02:05:47] - [CHAT] Cecep June: wt/r
+[06/04/2023 - 02:13:57] - [CHAT] Cecep June: q/
+[06/04/2023 - 02:27:47] - [CHAT] g4nee: q
+[06/04/2023 - 03:10:25] - [CHAT] Cecep June: q
+[06/04/2023 - 03:13:01] - [CHAT] Cecep June: q
+[06/04/2023 - 03:20:25] - [CHAT] Cecep June: ?q
+[06/04/2023 - 03:50:50] - [CHAT] Cecep June: 2
+[06/04/2023 - 07:47:40] - [CHAT] Cecep June: t/cc
+[06/04/2023 - 08:56:05] - [CHAT] Ming Kem: q/
+[06/04/2023 - 09:47:01] - [CHAT] Ming Kem: q/
+[06/04/2023 - 09:47:01] - [CHAT] Ming Kem: q
+[06/04/2023 - 10:39:49] - [CHAT] Ming Kem: cc
+[06/04/2023 - 15:12:26] - [CHAT] Ming Kem: r
+[06/04/2023 - 15:32:09] - [CHAT] Ming Kem: 2
+[06/04/2023 - 15:32:18] - [CHAT] Ming Kem: 7
+[06/04/2023 - 16:24:01] - [CHAT] zhidanptrsyh : i
+[07/04/2023 - 02:12:58] - [CHAT] Ming Kem: q
+[07/04/2023 - 02:35:36] - [CHAT] Ming Kem: a
+[07/04/2023 - 04:20:09] - [CHAT] Ming Kem: y/q
+[07/04/2023 - 22:34:03] - [CHAT] zhidanptrsyh : y
+[08/04/2023 - 01:06:53] - [CHAT] Ming Kem: q
+[08/04/2023 - 04:02:27] - [CHAT] zhidanptrsyh : y
+[08/04/2023 - 05:09:51] - [CHAT] Ming Kem: q/
+[08/04/2023 - 06:45:58] - [CHAT] Anjas Mara: y
+[08/04/2023 - 06:59:51] - [CHAT] zhidanptrsyh : q
+[08/04/2023 - 07:19:12] - [CHAT] KillBill: a/ddrusun
+[08/04/2023 - 09:40:31] - [CHAT] Ming Kem: q
+[08/04/2023 - 22:01:43] - [CHAT] KillBill:  0
+[09/04/2023 - 01:33:32] - [CHAT] Ming Kem: a/ddrusun 8000 Rusun Abah Daging 01
+[09/04/2023 - 04:26:00] - [CHAT] Ming Kem: w t/q
+[09/04/2023 - 06:28:15] - [CHAT] Ming Kem: q
+[09/04/2023 - 07:22:42] - [CHAT] Ming Kem: q
+[09/04/2023 - 07:52:57] - [CHAT] Ming Kem: ok bro gua mau showcase fitur rampok warung
+[09/04/2023 - 07:53:28] - [CHAT] Ming Kem: lu harus tembak objek rob nya
+[09/04/2023 - 07:53:33] - [CHAT] Ming Kem: yang bener ya
+[09/04/2023 - 07:53:53] - [CHAT] Ming Kem: w/cc
+[09/04/2023 - 07:58:29] - [CHAT] Ming Kem: w/cc
+[10/04/2023 - 03:20:15] - [CHAT] KillBill: y
+[10/04/2023 - 04:30:17] - [CHAT] Ming Kem: `a`/editr
+[10/04/2023 - 07:36:21] - [CHAT] Ming Kem: ajg lupa animnya
+[10/04/2023 - 07:36:25] - [CHAT] Ming Kem: kontol
+[10/04/2023 - 08:05:47] - [CHAT] Ming Kem:  /ex
+[11/04/2023 - 02:25:15] - [CHAT] Ming Kem: 
+[11/04/2023 - 09:54:56] - [CHAT] KillBill: q/
+[11/04/2023 - 23:31:21] - [CHAT] Ming Kem: a
+[12/04/2023 - 01:01:48] - [CHAT] Ming Kem: tt
+[12/04/2023 - 07:48:22] - [CHAT] Ming Kem: e angtang
+[12/04/2023 - 08:47:12] - [CHAT] zhidanptrsyh : a
+[12/04/2023 - 09:15:41] - [CHAT] zhidanptrsyh : auto nyala
+[12/04/2023 - 11:33:17] - [CHAT] Ming Kem: y
+[13/04/2023 - 08:19:50] - [CHAT] Ming Kem: y
+[13/04/2023 - 21:13:37] - [CHAT] Ming Kem: t/cc
+[14/04/2023 - 01:44:40] - [CHAT] zhidanptrsyh : a
+[14/04/2023 - 10:43:28] - [CHAT] zhidanptrsyh : w/i
+[15/04/2023 - 20:28:01] - [CHAT] zhidanptrsyh : `/
+[15/04/2023 - 20:46:15] - [CHAT] zhidanptrsyh : 9
+[15/04/2023 - 21:12:50] - [CHAT] zhidanptrsyh : nn
+[15/04/2023 - 21:14:15] - [CHAT] zhidanptrsyh : e 
+[15/04/2023 - 21:18:00] - [CHAT] zhidanptrsyh : 5
+[15/04/2023 - 21:22:28] - [CHAT] zhidanptrsyh : slap 0
+[15/04/2023 - 21:22:29] - [CHAT] zhidanptrsyh : slap /0
+[16/04/2023 - 02:45:10] - [CHAT] zhidanptrsyh : w
+[16/04/2023 - 11:46:30] - [CHAT] zhidanptrsyh : 
+[16/04/2023 - 21:02:05] - [CHAT] zhidanptrsyh : 
+[16/04/2023 - 21:17:23] - [CHAT] zhidanptrsyh : ?i
+[17/04/2023 - 21:44:34] - [CHAT] zhidanptrsyh : R
+[17/04/2023 - 22:47:47] - [CHAT] zhidanptrsyh : q/
+[18/04/2023 - 04:15:39] - [CHAT] zhidanptrsyh : w/
+[18/04/2023 - 05:43:54] - [CHAT] Ming Kem: 1/q
+[18/04/2023 - 06:49:16] - [CHAT] Udin: lah lu gmna anjing
+[18/04/2023 - 15:04:06] - [CHAT] Udin: q
+[19/04/2023 - 08:31:37] - [CHAT] Ming Kem: y
+[20/04/2023 - 00:15:58] - [CHAT] Udin: i
+[20/04/2023 - 02:58:31] - [CHAT] Udin: q
+[20/04/2023 - 06:49:15] - [CHAT] Udin: e x
+[20/04/2023 - 06:51:37] - [CHAT] Udin: q/
+[20/04/2023 - 09:51:27] - [CHAT] Udin: q
+[20/04/2023 - 10:06:27] - [CHAT] Udin: q
+[20/04/2023 - 14:21:03] - [CHAT] Udin: 2
+[20/04/2023 - 14:43:59] - [CHAT] Udin: h
+[20/04/2023 - 20:07:15] - [CHAT] Udin: h
+[20/04/2023 - 22:54:24] - [CHAT] Ming Kem: q
+[21/04/2023 - 05:01:03] - [CHAT] Udin: w/en
+[21/04/2023 - 05:27:27] - [CHAT] Udin: w/save 
+[21/04/2023 - 07:01:18] - [CHAT] Ming Kem: w/setstress 0
+[21/04/2023 - 07:15:05] - [CHAT] Udin: ;q
+[22/04/2023 - 01:29:27] - [CHAT] Udin: t/cc
+[22/04/2023 - 01:34:16] - [CHAT] Udin: .cc/
+[22/04/2023 - 04:48:02] - [CHAT] Udin: w
+[22/04/2023 - 19:29:34] - [CHAT] Udin: e/
+[23/04/2023 - 04:08:36] - [CHAT] Mikasa: f
+[23/04/2023 - 19:26:12] - [CHAT] Mikasa: q
+[24/04/2023 - 14:48:57] - [CHAT] Ming Kem: wt
+[25/04/2023 - 07:07:52] - [CHAT] Ming Kem: q
+[25/04/2023 - 08:30:46] - [CHAT] Ming Kem: q/
+[25/04/2023 - 13:26:08] - [CHAT] Ming Kem: q
+[25/04/2023 - 13:55:11] - [CHAT] Ming Kem: q
+[25/04/2023 - 14:46:51] - [CHAT] Mikasa: w
+[26/04/2023 - 00:45:56] - [CHAT] Ming Kem: q/
+[26/04/2023 - 01:04:11] - [CHAT] Ming Kem: q
+[26/04/2023 - 05:00:49] - [CHAT] Ming Kem: q
+[27/04/2023 - 00:26:59] - [CHAT] Mikasa: i
+[27/04/2023 - 01:03:56] - [CHAT] Ming Kem: sethbe 100
+[27/04/2023 - 01:06:52] - [CHAT] Mikasa: o
+[27/04/2023 - 01:35:02] - [CHAT] Mikasa: q/
+[27/04/2023 - 02:21:10] - [CHAT] Mikasa: cc
+[27/04/2023 - 02:31:40] - [CHAT] Mikasa: q
+[27/04/2023 - 17:22:53] - [CHAT] Mikasa: t/settime 16
+[28/04/2023 - 07:29:05] - [CHAT] Ming Kem: y
+[28/04/2023 - 09:42:19] - [CHAT] Mikasa:  /slap 0
+[14/05/2023 - 22:26:56] - [CHAT] Mikasa: fashion
+[15/05/2023 - 23:53:05] - [CHAT] Mikasa: gotogarkot 3
+[16/05/2023 - 05:09:25] - [CHAT] Ming Kem:  /q
+[17/05/2023 - 06:41:59] - [CHAT] Mikasa: .
+[17/05/2023 - 09:01:11] - [CHAT] Ming Khems: q/
+[17/05/2023 - 23:20:17] - [CHAT] Mikasa: i
+[18/05/2023 - 01:37:05] - [CHAT] Ming Khems: q/
+[18/05/2023 - 01:46:33] - [CHAT] Mikasa: h
+[18/05/2023 - 05:23:50] - [CHAT] Tatang Asu: q
+[18/05/2023 - 06:28:04] - [CHAT] Ming Khems: Q
+[18/05/2023 - 12:09:21] - [CHAT] Mikasa: w
+[18/05/2023 - 21:44:23] - [CHAT] Ming Khems: 'cc
+[18/05/2023 - 22:31:00] - [CHAT] Ming Khems: fduty
+[18/05/2023 - 23:35:36] - [CHAT] Ucok Lancip: saving
+[18/05/2023 - 23:48:45] - [CHAT] Katak Biznet: q
+[19/05/2023 - 06:12:04] - [CHAT] Mikasa: q/
+[19/05/2023 - 11:26:39] - [CHAT] Mikasa: em
+[19/05/2023 - 12:41:42] - [CHAT] Ming Khems: nt/
+[19/05/2023 - 14:15:21] - [CHAT] Ming Khemss: .aveh
+[19/05/2023 - 19:27:02] - [CHAT] Kems: setvw 0 0
+[19/05/2023 - 19:59:53] - [CHAT] Ming Khemss: wa/setjob 0 20
+[19/05/2023 - 20:00:28] - [CHAT] Kems: 3
+[19/05/2023 - 21:06:29] - [CHAT] Ming Khems: 1
+[19/05/2023 - 21:06:30] - [CHAT] Ming Khems: 2
+[19/05/2023 - 21:06:31] - [CHAT] Ming Khems: 3
+[19/05/2023 - 23:00:48] - [CHAT] Idan: y
+[20/05/2023 - 00:13:57] - [CHAT] Ming Khems: w/q
+[20/05/2023 - 20:16:35] - [CHAT] Ming Khems: i
+[22/05/2023 - 04:35:20] - [CHAT] Idan: q
+[22/05/2023 - 21:05:44] - [CHAT] Ming Khems: q
+[23/05/2023 - 12:41:51] - [CHAT] Ming Khems: yy
+[23/05/2023 - 12:45:13] - [CHAT] Ming Khems: c
+[23/05/2023 - 22:00:54] - [CHAT] Riset: 1/cc
+[25/05/2023 - 01:17:58] - [CHAT] Riset: 2
+[25/05/2023 - 01:55:39] - [CHAT] Ming Khems: r
+[25/05/2023 - 06:06:15] - [CHAT] Riset: setitem 0 1 smartphone
+[25/05/2023 - 06:06:18] - [CHAT] Riset: setitem 0 10 kebab a5
+[25/05/2023 - 06:06:20] - [CHAT] Riset: setitem 0 10 es teh
+[25/05/2023 - 06:06:24] - [CHAT] Riset: setitem 0 12 rokok
+[25/05/2023 - 06:34:57] - [CHAT] Riset: sa
+[25/05/2023 - 14:37:18] - [CHAT] Ming Khems: sethp 0 0
+[26/05/2023 - 01:18:30] - [CHAT] Ming Khems: a
+[26/05/2023 - 04:58:42] - [CHAT] Riset: modif
+[26/05/2023 - 22:38:20] - [CHAT] Ming Khems: y
+[26/05/2023 - 23:54:21] - [CHAT] Mings: \
+[27/05/2023 - 00:04:18] - [CHAT] Mings: settime 3
+[27/05/2023 - 00:09:37] - [CHAT] Mings: time 3
+[27/05/2023 - 04:32:58] - [CHAT] Furqon: sdsadsa
+[27/05/2023 - 12:58:22] - [CHAT] Mings: q
+[27/05/2023 - 13:14:21] - [CHAT] Ming Sutejo: e
+[27/05/2023 - 13:15:40] - [CHAT] Ming Sutejo: e
+[28/05/2023 - 02:23:49] - [CHAT] Mings: q
+[28/05/2023 - 02:32:04] - [CHAT] Ming Sutejo: q
+[28/05/2023 - 04:40:06] - [CHAT] Ming Sutejo: vrm
+[28/05/2023 - 04:44:14] - [CHAT] Ming Sutejo: q
+[28/05/2023 - 05:25:10] - [CHAT] furqon: pma
+[28/05/2023 - 08:18:37] - [CHAT] Mings: q
+[28/05/2023 - 09:17:41] - [CHAT] Ming Sutejo: editrusun 0 delete
+[28/05/2023 - 16:26:30] - [CHAT] Mings: t
+[28/05/2023 - 17:12:23] - [CHAT] Furqon: w/cc
+[28/05/2023 - 17:28:24] - [CHAT] Mings: adveh
+[28/05/2023 - 17:47:36] - [CHAT] Mings: sethpall 100
+[28/05/2023 - 19:35:36] - [CHAT] Ming Sutejo: .destroyp 4
+[28/05/2023 - 19:51:20] - [CHAT] Ming Sutejo: w
+[28/05/2023 - 20:49:53] - [CHAT] Ming Sutejo: c
+[29/05/2023 - 04:35:16] - [CHAT] Ming Sutejo: y
+[29/05/2023 - 04:50:26] - [CHAT] Mings: 2
+[29/05/2023 - 07:03:52] - [CHAT] Ming Sutejo: q
+[29/05/2023 - 23:42:47] - [CHAT] Ming Sutejo: `
+[29/05/2023 - 12:48:33] - [CHAT] Ming Sutejo: t/cc
+[29/05/2023 - 14:03:02] - [CHAT] Memek: dh
+[29/05/2023 - 14:42:10] - [CHAT] Mamat Kopek: sid
+[30/05/2023 - 21:55:02] - [CHAT] Erik Tohir: h
+[31/05/2023 - 23:11:14] - [CHAT] Erik Tohir: q
+[03/06/2023 - 02:37:46] - [CHAT] Ming Khems: asetitem 2 rokok
+[03/06/2023 - 08:11:46] - [CHAT] Mings: q
+[03/06/2023 - 08:17:09] - [CHAT] Ming Khems: w
+[03/06/2023 - 21:00:47] - [CHAT] Ming Khems: 
+[03/06/2023 - 23:09:39] - [CHAT] Mings: 
+[04/06/2023 - 00:11:24] - [CHAT] Mings: q
+[04/06/2023 - 04:31:12] - [CHAT] Mings: 
+[04/06/2023 - 06:05:04] - [CHAT] Ming Khems: .
+[04/06/2023 - 21:01:50] - [CHAT] Mings: q
+[04/06/2023 - 22:05:43] - [CHAT] Mings: q
+[04/06/2023 - 22:05:45] - [CHAT] Mings: q
+[05/06/2023 - 02:19:47] - [CHAT] Ming Khems: q
+[05/06/2023 - 02:29:12] - [CHAT] Ming Khems: i
+[05/06/2023 - 05:39:33] - [CHAT] Ming Khems: q/
+[05/06/2023 - 06:08:21] - [CHAT] Ming Khems: q/
+[05/06/2023 - 06:22:35] - [CHAT] Mings: w
+[06/06/2023 - 02:08:19] - [CHAT] Mings: gotoatm 11
+[06/06/2023 - 06:17:13] - [CHAT] Ming Khems: aw
+[06/06/2023 - 20:50:45] - [CHAT] Ming Khems: q
+[07/06/2023 - 22:46:58] - [CHAT] Ming Khems: 22
+[08/06/2023 - 01:54:23] - [CHAT] Ming Khems: asdsadasdsadas
+[08/06/2023 - 02:40:44] - [CHAT] Mings: 0.25
+[08/06/2023 - 03:23:11] - [CHAT] Ming Khems: f
+[08/06/2023 - 08:27:19] - [CHAT] Ming Khems: h
+[08/06/2023 - 08:33:44] - [CHAT] Ming Khems: testinvoice
+[09/06/2023 - 00:40:15] - [CHAT] Ming Khems: y
+[09/06/2023 - 01:38:35] - [CHAT] Ming Khems: q
+[09/06/2023 - 02:46:17] - [CHAT] Ming Khems: m
+[09/06/2023 - 06:29:26] - [CHAT] Mings: w
+[09/06/2023 - 07:49:42] - [CHAT] Ming Khems: s/
+[09/06/2023 - 09:03:07] - [CHAT] Ming Khems: q/
+[09/06/2023 - 23:05:44] - [CHAT] Ming Khems:  /cc
+[10/06/2023 - 02:47:23] - [CHAT] Mings: a /cc
+[10/06/2023 - 04:46:36] - [CHAT] Ming Khems: q/
+[11/06/2023 - 00:30:14] - [CHAT] Mings: cc
+[11/06/2023 - 06:09:11] - [CHAT] Mings: t/q
+[11/06/2023 - 06:59:55] - [CHAT] Mings: q/
+[11/06/2023 - 22:06:36] - [CHAT] Ming Khems: q
+[12/06/2023 - 02:21:55] - [CHAT] Ming Khems: q
+[12/06/2023 - 02:33:19] - [CHAT] Ming Khems: y
+[13/06/2023 - 07:44:57] - [CHAT] Mings: q
+[13/06/2023 - 07:44:57] - [CHAT] Mings: q
+[14/06/2023 - 04:06:21] - [CHAT] Ucok Sitompul: y/cc
+[15/06/2023 - 07:18:13] - [CHAT] Cecep Sutejo: q
+[15/06/2023 - 07:43:31] - [CHAT] Cecep Sutejo: e
+[15/06/2023 - 08:16:02] - [CHAT] Cecep Sutejo: gotodoor 0
+[15/06/2023 - 20:56:35] - [CHAT] Cecep Sutejo: .cc'
+[15/06/2023 - 21:19:56] - [CHAT] Cecep Sutejo: q/
+[15/06/2023 - 21:32:41] - [CHAT] Cecep Sutejo: q
+[15/06/2023 - 23:49:03] - [CHAT] Mings: .cc
+[16/06/2023 - 00:02:42] - [CHAT] Cecep Sutejo: .i
+[16/06/2023 - 04:06:17] - [CHAT] Cecep Sutejo: q
+[16/06/2023 - 04:09:56] - [CHAT] Cecep Sutejo: asd
+[16/06/2023 - 04:39:58] - [CHAT] Cecep Sutejo: 
+[16/06/2023 - 04:42:58] - [CHAT] Cecep Sutejo: q
+[16/06/2023 - 20:46:47] - [CHAT] Cecep Sutejo: q
+[16/06/2023 - 21:27:15] - [CHAT] Cecep Sutejo:  /setjob 0 11
+[17/06/2023 - 00:33:15] - [CHAT] Cecep Sutejo: q
+[17/06/2023 - 00:33:17] - [CHAT] Cecep Sutejo: q
+[17/06/2023 - 05:13:49] - [CHAT] Cecep Sutejo: cc
+[17/06/2023 - 07:01:23] - [CHAT] Mings: as
+[17/06/2023 - 08:14:47] - [CHAT] Mings: q
+[17/06/2023 - 23:58:43] - [CHAT] Mings: asd
+[18/06/2023 - 02:31:08] - [CHAT] Cecep Sutejo: warning
+[18/06/2023 - 02:45:23] - [CHAT] Cecep Sutejo: s
+[18/06/2023 - 06:54:18] - [CHAT] Cecep Sutejo: boxtest
+[18/06/2023 - 08:17:45] - [CHAT] Cecep Sutejo: q
+[18/06/2023 - 08:56:02] - [CHAT] Cecep Sutejo: q
+[18/06/2023 - 10:09:41] - [CHAT] Cecep Sutejo: restart 5
+[18/06/2023 - 22:55:16] - [OOC] Cecep Sutejo: lo
+[18/06/2023 - 22:55:22] - [OOC] Cecep Sutejo: ga bahaya tah ?
+[18/06/2023 - 22:55:26] - [OOC] Mings: ga bahaya ta ?
+[18/06/2023 - 22:55:52] - [CHAT] Cecep Sutejo: ga bahaya ta ?
+[18/06/2023 - 23:01:42] - [OOC] Cecep Sutejo: sadsakdokasodk
+[18/06/2023 - 23:46:53] - [OOC] Cecep Sutejo: bang
+[18/06/2023 - 23:47:00] - [OOC] Cecep Sutejo: bang
+[18/06/2023 - 23:47:06] - [OOC] Cecep Sutejo: bang
+[18/06/2023 - 23:47:50] - [OOC] Cecep Sutejo: p
+[19/06/2023 - 02:47:27] - [CHAT] Cecep Sutejo: vrm
+[19/06/2023 - 02:55:40] - [OOC] Mings: asdas
+[19/06/2023 - 02:55:41] - [OOC] Mings: asdas
+[19/06/2023 - 08:03:59] - [OOC] Cecep Sutejo: lu mixxing anjing
+[19/06/2023 - 08:16:30] - [CHAT] Cecep Sutejo: i
+[20/06/2023 - 03:34:35] - [CHAT] Cecep Sutejo: q
+[20/06/2023 - 05:23:39] - [CHAT] Cecep Sutejo: 
+[20/06/2023 - 08:07:28] - [OOC] Mings: well
+[20/06/2023 - 10:28:22] - [OOC] Cecep Sutejo: as
+[20/06/2023 - 11:00:11] - [CHAT] Cecep Sutejo: q
+[20/06/2023 - 22:40:01] - [CHAT] Mings: q
+[21/06/2023 - 05:59:25] - [OOC] Cecep Sutejo: Affah si dek
+[21/06/2023 - 06:34:37] - [CHAT] Cecep Sutejo: roypv 4
+[21/06/2023 - 09:42:35] - [CHAT] Cecep Sutejo: t
+[21/06/2023 - 10:17:26] - [CHAT] Aceng Gege: q
+[21/06/2023 - 10:33:58] - [CHAT] Cecep Sutejo: q
+[21/06/2023 - 10:37:26] - [CHAT] Cecep Sutejo: q
+[21/06/2023 - 20:15:23] - [CHAT] Cecep Sutejo: w/
+[21/06/2023 - 21:48:51] - [CHAT] Cecep Sutejo: g
+[22/06/2023 - 01:09:46] - [CHAT] Cecep Sutejo: y
+[22/06/2023 - 01:56:59] - [CHAT] Mings: kurasbensin
+[22/06/2023 - 02:59:13] - [CHAT] Mings: q
+[22/06/2023 - 04:08:37] - [CHAT] Cecep Sutejo: q/
+[22/06/2023 - 04:28:36] - [CHAT] Cecep Sutejo: w/mycars
+[22/06/2023 - 04:45:09] - [OOC] Mings: jangan spam
+[22/06/2023 - 04:45:54] - [OOC] Mings: nanti bakal dapet item random = Buly
+[22/06/2023 - 05:39:12] - [CHAT] Ucok Sitompul: respawnrad 50
+[22/06/2023 - 09:22:19] - [CHAT] Cecep Sutejo: q
+[22/06/2023 - 09:25:50] - [CHAT] Mings:  /getveh 4a
+[22/06/2023 - 09:25:51] - [CHAT] Mings:  /getveh 4
+[22/06/2023 - 09:35:39] - [CHAT] NixxyGatang: q
+[22/06/2023 - 21:35:58] - [CHAT] Ucok Sitompul: q/
+[22/06/2023 - 21:35:58] - [CHAT] Ucok Sitompul: q/
+[22/06/2023 - 22:38:38] - [CHAT] Ucok Sitompul: gotoveh 4
+[22/06/2023 - 22:52:40] - [CHAT] NixxyGatang: q
+[23/06/2023 - 01:38:21] - [CHAT] Ucok Sitompul: q
+[23/06/2023 - 03:11:41] - [OOC] Ucok Sitompul: as
+[23/06/2023 - 03:12:30] - [CHAT] Ucok Sitompul: q
+[23/06/2023 - 04:18:04] - [CHAT] Mings: 
+[23/06/2023 - 08:03:39] - [CHAT] Mings: q
+[23/06/2023 - 09:11:26] - [CHAT] Mings: w/e x
+[23/06/2023 - 09:11:42] - [CHAT] Mings: w/e x
+[23/06/2023 - 09:58:58] - [CHAT] Mings: cc
+[23/06/2023 - 10:30:42] - [OOC] Cecep Sutejo: ol
+[23/06/2023 - 10:37:07] - [CHAT] Mings:  /jetpack
+[23/06/2023 - 12:19:09] - [CHAT] Mings: q/
+[23/06/2023 - 12:32:38] - [CHAT] Ucok Sitompul: s
+[23/06/2023 - 23:28:10] - [CHAT] Ucok Sitompul: q
+[23/06/2023 - 23:55:25] - [CHAT] Cecep Sutejo: q
+[24/06/2023 - 02:37:31] - [CHAT] Cecep Sutejo: q
+[24/06/2023 - 04:25:25] - [CHAT] Cecep Sutejo: destroypv 4
+[24/06/2023 - 04:38:27] - [OOC] Cecep Sutejo: 19182
+[24/06/2023 - 04:53:08] - [CHAT] Ucok Sitompul: q
+[24/06/2023 - 06:01:55] - [CHAT] Mings: sad
+[24/06/2023 - 06:17:32] - [CHAT] Cecep Sutejo: cc
+[24/06/2023 - 09:57:21] - [OOC] Cecep Sutejo: as
+[24/06/2023 - 10:42:00] - [CHAT] Mings: t/vrm
+[24/06/2023 - 20:57:01] - [CHAT] Cecep Sutejo: q
+[24/06/2023 - 21:37:38] - [CHAT] Cecep Sutejo: 120
+[24/06/2023 - 22:10:21] - [CHAT] Cecep Sutejo: h
+[24/06/2023 - 23:49:07] - [CHAT] Cecep Sutejo: q
+[25/06/2023 - 03:14:31] - [OOC] Cecep Sutejo: sad
+[25/06/2023 - 03:14:35] - [OOC] Cecep Sutejo: Apa si dek dek
+[25/06/2023 - 03:14:41] - [OOC] Cecep Sutejo: ngomong minimal
+[26/06/2023 - 23:26:05] - [OOC] Cecep Sutejo: as
+[28/06/2023 - 06:33:20] - [OOC] Cecep Sutejo: as
+[28/06/2023 - 06:46:33] - [OOC] Cecep Sutejo: 1274
+[02/07/2023 - 02:33:35] - [OOC] Cecep Sutejo: might/q
+[02/07/2023 - 02:47:17] - [OOC] Cecep Sutejo: sad
+[02/07/2023 - 03:46:01] - [OOC] Cecep Sutejo: aowkaokwaokw
+[02/07/2023 - 03:46:01] - [OOC] Cecep Sutejo: ngontol
+[09/07/2023 - 08:57:15] - [OOC] Cecep Sutejo: sad
+[09/07/2023 - 08:57:18] - [OOC] Cecep Sutejo: 7
+[09/07/2023 - 08:57:20] - [OOC] Cecep Sutejo: aokwoakwoakwa
+[09/07/2023 - 08:57:41] - [OOC] Cecep Sutejo: saokdoaskd
+[09/07/2023 - 08:57:47] - [OOC] Cecep Sutejo: oaskdokasodk
+[09/07/2023 - 08:57:54] - [OOC] Cecep Sutejo: askoaks
+[09/07/2023 - 08:57:54] - [OOC] Cecep Sutejo: askoaks
+[09/07/2023 - 08:57:55] - [OOC] Cecep Sutejo: askoaks
+[09/07/2023 - 08:57:56] - [OOC] Cecep Sutejo: askoaks
+[09/07/2023 - 08:57:57] - [OOC] Cecep Sutejo: askoaks
+[09/07/2023 - 08:57:57] - [OOC] Cecep Sutejo: askoaks
+[09/07/2023 - 08:58:03] - [OOC] Cecep Sutejo: asdsa
+[09/07/2023 - 08:58:03] - [OOC] Cecep Sutejo: asdsa
+[09/07/2023 - 08:58:04] - [OOC] Cecep Sutejo: asdsa
+[09/07/2023 - 08:58:31] - [OOC] Cecep Sutejo: oaskdokasd
+[09/07/2023 - 08:58:34] - [OOC] Cecep Sutejo: Anjing
+[09/07/2023 - 08:59:45] - [OOC] Cecep Sutejo: asu
+[09/07/2023 - 08:59:46] - [OOC] Cecep Sutejo: asd
+[09/07/2023 - 08:59:48] - [OOC] Cecep Sutejo: sa
+[09/07/2023 - 08:59:54] - [OOC] Cecep Sutejo: ds
+[09/07/2023 - 09:00:15] - [OOC] Cecep Sutejo: sad
+[09/07/2023 - 09:02:59] - [OOC] Cecep Sutejo: asdsa
+[09/07/2023 - 09:03:09] - [OOC] Cecep Sutejo: asik
+[10/07/2023 - 08:06:10] - [OOC] Cecep Sutejo: asd
+[11/07/2023 - 08:22:21] - [OOC] Cecep Sutejo: sad
+[11/07/2023 - 09:32:56] - [OOC] Cecep Sutejo: as
+[11/07/2023 - 09:33:36] - [OOC] Cecep Sutejo: as
+[11/07/2023 - 09:39:08] - [OOC] Cecep Sutejo: sadsa
+[11/07/2023 - 21:02:02] - [OOC] Cecep Sutejo: bacot
+[11/07/2023 - 21:34:03] - [OOC] NULL: as
+[16/07/2023 - 11:46:06] - [OOC] Cecep Sutejo: s
+[16/07/2023 - 11:46:07] - [OOC] Cecep Sutejo: s
+[16/07/2023 - 11:46:08] - [OOC] Cecep Sutejo: s
+[16/07/2023 - 11:46:08] - [OOC] Cecep Sutejo: s
+[16/07/2023 - 11:46:08] - [OOC] Cecep Sutejo: s
+[16/07/2023 - 11:46:09] - [OOC] Cecep Sutejo: s
+[16/07/2023 - 11:46:09] - [OOC] Cecep Sutejo: s
+[16/07/2023 - 11:46:09] - [OOC] Cecep Sutejo: s
+[16/07/2023 - 11:46:10] - [OOC] Cecep Sutejo: s
+[16/07/2023 - 11:46:10] - [OOC] Cecep Sutejo: s
+[16/07/2023 - 11:46:11] - [OOC] Cecep Sutejo: s
+[20/07/2023 - 10:35:21] - [OOC] Cecep Sutejo: as
+[20/07/2023 - 16:24:45] - [OOC] Cecep Sutejo: sa
+[21/07/2023 - 06:10:20] - [OOC] Cecep Sutejo: sa
+[21/07/2023 - 07:02:37] - [OOC] Cecep Sutejo: as
+[21/07/2023 - 07:02:37] - [OOC] Cecep Sutejo: as
+[21/07/2023 - 07:02:38] - [OOC] Cecep Sutejo: as
+[21/07/2023 - 07:02:38] - [OOC] Cecep Sutejo: as
+[21/07/2023 - 07:02:38] - [OOC] Cecep Sutejo: as
+[21/07/2023 - 08:27:16] - [OOC] NULL: as
+[22/07/2023 - 10:33:17] - [OOC] NULL: sp
+[22/07/2023 - 10:33:18] - [OOC] NULL: sp
+[22/07/2023 - 10:33:18] - [OOC] NULL: sp
+[22/07/2023 - 10:33:19] - [OOC] NULL: sp
+[22/07/2023 - 10:33:20] - [OOC] NULL: sp
+[22/07/2023 - 10:33:21] - [OOC] NULL: sp
+[22/07/2023 - 10:33:21] - [OOC] NULL: sp
+[22/07/2023 - 10:33:21] - [OOC] NULL: sp
+[22/07/2023 - 10:33:23] - [OOC] NULL: sp
+[23/07/2023 - 06:20:41] - [OOC] Cecep Sutejo: a
+[25/07/2023 - 04:23:31] - [OOC] Cecep Sutejo: a
+[25/07/2023 - 15:05:38] - [OOC] Cecep Sutejo: as
+[25/07/2023 - 15:05:38] - [OOC] Cecep Sutejo: as
+[26/07/2023 - 02:28:28] - [OOC] Cecep Sutejo: as
+[26/07/2023 - 02:28:28] - [OOC] Cecep Sutejo: as
+[26/07/2023 - 02:28:29] - [OOC] Cecep Sutejo: as
+[26/07/2023 - 02:28:29] - [OOC] Cecep Sutejo: as
+[26/07/2023 - 06:00:09] - [OOC] Cecep Sutejo: sa
+[26/07/2023 - 06:00:09] - [OOC] Cecep Sutejo: sa
+[26/07/2023 - 19:32:59] - [OOC] Cecep Sutejo: as
+[26/07/2023 - 20:09:07] - [OOC] Cecep Sutejo: asd
+[29/07/2023 - 08:06:13] - [OOC] Cecep Sutejo: asd
+[06/08/2023 - 06:58:39] - [OOC] Cecep Sutejo: as
+[06/08/2023 - 06:58:39] - [OOC] Cecep Sutejo: as
+[08/08/2023 - 04:52:10] - [OOC] Cecep Sutejo: as
+[10/08/2023 - 21:58:07] - [OOC] Cecep Sutejo: sa
+[13/08/2023 - 08:40:46] - [OOC] Cecep Sutejo: sa
+[13/08/2023 - 08:40:48] - [OOC] Cecep Sutejo: sa
+[14/08/2023 - 08:59:39] - [OOC] Cecep Sutejo: asu
+[16/08/2023 - 01:19:58] - [OOC] Cecep Sutejo: oaksok
+[16/08/2023 - 01:19:58] - [OOC] Cecep Sutejo: oaksok
+[16/08/2023 - 01:19:58] - [OOC] Cecep Sutejo: oaksok
+[16/08/2023 - 01:19:58] - [OOC] Cecep Sutejo: oaksok
+[16/08/2023 - 01:19:59] - [OOC] Cecep Sutejo: oaksok
+[16/08/2023 - 01:19:59] - [OOC] Cecep Sutejo: oaksok
+[16/08/2023 - 01:19:59] - [OOC] Cecep Sutejo: oaksok
+[16/08/2023 - 01:20:00] - [OOC] Cecep Sutejo: oaksok
+[16/08/2023 - 01:20:00] - [OOC] Cecep Sutejo: oaksok
+[16/08/2023 - 01:20:00] - [OOC] Cecep Sutejo: oaksok
+[17/08/2023 - 00:13:26] - [OOC] Cecep Sutejo: as
+[17/08/2023 - 00:13:35] - [OOC] Cecep Sutejo: as
+[17/08/2023 - 02:41:29] - [OOC] zhidanptrsyh: asojdoisajd
+[17/08/2023 - 03:23:59] - [OOC] Cecep Sutejo: asd
+[17/08/2023 - 03:23:59] - [OOC] Cecep Sutejo: asd
+[17/08/2023 - 07:29:06] - [OOC] Cecep Sutejo: sa
+[17/08/2023 - 08:06:30] - [OOC] Cecep Sutejo: asd
+[17/08/2023 - 22:22:47] - [OOC] Cecep Sutejo: sa
+[21/08/2023 - 02:24:12] - [OOC] Cecep Sutejo: sa
+[21/08/2023 - 02:28:07] - [OOC] Cecep Sutejo: asd
+[21/08/2023 - 02:40:41] - [OOC] Cecep Sutejo: sa
+[21/08/2023 - 02:50:32] - [OOC] Cecep Sutejo: lu dimana
+[21/08/2023 - 04:09:46] - [OOC] Cecep Sutejo: a
+[21/08/2023 - 05:54:59] - [OOC] Cecep Sutejo: as
+[21/08/2023 - 05:54:59] - [OOC] Cecep Sutejo: as
+[21/08/2023 - 05:54:59] - [OOC] Cecep Sutejo: as
+[21/08/2023 - 05:54:59] - [OOC] Cecep Sutejo: as
+[21/08/2023 - 05:55:00] - [OOC] Cecep Sutejo: as
+[21/08/2023 - 05:55:44] - [OOC] Cecep Sutejo: as
+[24/08/2023 - 03:49:08] - [OOC] Cecep Sutejo: sa
+[24/08/2023 - 03:50:36] - [OOC] Cecep Sutejo: ASU
+[24/08/2023 - 03:50:46] - [OOC] Cecep Sutejo: ASU
+[24/08/2023 - 06:17:26] - [OOC] Cecep Sutejo: sa
+[24/08/2023 - 06:22:51] - [OOC] Cecep Sutejo: Halo Ges Apa Kabs
+[24/08/2023 - 09:48:12] - [OOC] Cecep Sutejo: as
+[24/08/2023 - 12:31:49] - [OOC] Cecep Sutejo: sa
+[29/08/2023 - 09:49:24] - [OOC] Cecep Sutejo: as
+[02/09/2023 - 07:09:50] - [OOC] Cecep Sutejo: as
+[02/09/2023 - 07:09:50] - [OOC] Cecep Sutejo: as
+[02/09/2023 - 07:09:50] - [OOC] Cecep Sutejo: as
+[02/09/2023 - 07:09:51] - [OOC] Cecep Sutejo: as
+[04/09/2023 - 18:16:07] - [OOC] Cecep Sutejo: p
+[08/09/2023 - 07:01:51] - [OOC] Cecep Sutejo: sa
+[12/09/2023 - 22:45:49] - [OOC] Cecep Sutejo: baco
+[12/09/2023 - 22:45:50] - [OOC] Cecep Sutejo: baco
+[12/09/2023 - 22:45:51] - [OOC] Cecep Sutejo: bacod
+[19/09/2023 - 01:36:39] - [OOC] Cecep Sutejo: as
+[20/09/2023 - 12:03:34] - [OOC] Cecep Sutejo: as
+[23/09/2023 - 03:40:46] - [OOC] David Ozora: sa
+[04/10/2023 - 08:51:42] - [OOC] Takiya Genjot: p
+[04/10/2023 - 08:51:45] - [OOC] Takiya Genjot: bang sp dmna
+[06/10/2023 - 04:23:27] - [OOC] David Ozora: as
+[07/10/2023 - 04:14:49] - [OOC] David Ozora: apa si anjing
+[07/10/2023 - 04:14:52] - [OOC] David Ozora: apa si Anjing
+[07/10/2023 - 04:32:14] - [OOC] David Ozora: lu bacot
+[07/10/2023 - 04:32:20] - [OOC] David Ozora: lu bacot Kontol
+[08/10/2023 - 06:09:47] - [OOC] David Ozora: as
+[09/10/2023 - 05:29:20] - [OOC] Cecep Sugeni: sa
+[22/10/2023 - 22:09:37] - [OOC] Cecep Sugeni: pepek
+[22/10/2023 - 22:12:18] - [OOC] Cecep Sugeni: pantek
+[28/10/2023 - 07:10:41] - [OOC] Pokedannn: 7844
+[29/10/2023 - 13:36:50] - [OOC] Cecep Sugeni: 188,240
+[29/10/2023 - 15:13:17] - [OOC] Cecep Sugeni: 188840
+[31/10/2023 - 08:30:52] - [OOC] Cecep Sugeni: 30,400
+[01/11/2023 - 06:01:43] - [OOC] Cecep Sugeni: 138,327
+[01/11/2023 - 06:02:14] - [OOC] Cecep Sugeni: 138,327
+[01/11/2023 - 06:04:11] - [OOC] Cecep Sugeni: 535,210
+[01/11/2023 - 06:04:32] - [OOC] Cecep Sugeni: 535,210
+[01/11/2023 - 06:22:04] - [OOC] Cecep Sugeni: 130,300
+[02/11/2023 - 07:30:59] - [OOC] X9: as
+[02/11/2023 - 22:56:09] - [OOC] Cecep Sugeni: sa
+[05/11/2023 - 14:18:37] - [OOC] Cecep Sugeni: as
+[08/11/2023 - 07:26:40] - [OOC] X9: sa
+[08/11/2023 - 08:20:47] - [OOC] Cecep Sugeni: a
