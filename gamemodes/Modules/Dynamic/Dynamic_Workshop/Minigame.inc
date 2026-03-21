@@ -17,43 +17,71 @@ hook OnPlayerConnect(playerid)
     AccountData[playerid][pMinigameTimer] = -1;
     
     // Create Player TextDraws for Minigame
-    // TD[0] = Background (black bar)
+    // TD[0] = Background (dark bar)
     MechMinigameTD[playerid][0] = CreatePlayerTextDraw(playerid, 240.0, 380.0, "LD_SPAC:white");
     PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][0], 160.0, 20.0);
-    PlayerTextDrawColor(playerid, MechMinigameTD[playerid][0], 255); // Black
+    PlayerTextDrawAlignment(playerid, MechMinigameTD[playerid][0], 1);
+    PlayerTextDrawColor(playerid, MechMinigameTD[playerid][0], 0x333333FF); // Dark grey background
+    PlayerTextDrawSetShadow(playerid, MechMinigameTD[playerid][0], 0);
+    PlayerTextDrawSetOutline(playerid, MechMinigameTD[playerid][0], 0);
+    PlayerTextDrawBackgroundColor(playerid, MechMinigameTD[playerid][0], 255);
     PlayerTextDrawFont(playerid, MechMinigameTD[playerid][0], 4);
+    PlayerTextDrawSetProportional(playerid, MechMinigameTD[playerid][0], 1);
 
-    // TD[1] = Target Zone (HIJAU - makin tinggi level makin besar)
+    // TD[1] = Target Zone (HIJAU)
     MechMinigameTD[playerid][1] = CreatePlayerTextDraw(playerid, 290.0, 380.0, "LD_SPAC:white");
-    PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][1], 15.0, 20.0); // Default 15px width
+    PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][1], 20.0, 20.0);
+    PlayerTextDrawAlignment(playerid, MechMinigameTD[playerid][1], 1);
     PlayerTextDrawColor(playerid, MechMinigameTD[playerid][1], 0x00FF00FF); // GREEN (hijau)
+    PlayerTextDrawSetShadow(playerid, MechMinigameTD[playerid][1], 0);
+    PlayerTextDrawSetOutline(playerid, MechMinigameTD[playerid][1], 0);
+    PlayerTextDrawBackgroundColor(playerid, MechMinigameTD[playerid][1], 255);
     PlayerTextDrawFont(playerid, MechMinigameTD[playerid][1], 4);
+    PlayerTextDrawSetProportional(playerid, MechMinigameTD[playerid][1], 1);
 
-    // TD[2] = Moving Indicator (PUTIH - lebih kelihatan)
+    // TD[2] = Moving Indicator (PUTIH)
     MechMinigameTD[playerid][2] = CreatePlayerTextDraw(playerid, 240.0, 380.0, "LD_SPAC:white");
-    PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][2], 4.0, 20.0); // Lebih tebal (4px)
-    PlayerTextDrawColor(playerid, MechMinigameTD[playerid][2], 0xFFFFFFFF); // WHITE (bukan merah)
+    PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][2], 6.0, 20.0);
+    PlayerTextDrawAlignment(playerid, MechMinigameTD[playerid][2], 1);
+    PlayerTextDrawColor(playerid, MechMinigameTD[playerid][2], 0xFFFFFFFF); // WHITE
+    PlayerTextDrawSetShadow(playerid, MechMinigameTD[playerid][2], 0);
+    PlayerTextDrawSetOutline(playerid, MechMinigameTD[playerid][2], 0);
+    PlayerTextDrawBackgroundColor(playerid, MechMinigameTD[playerid][2], 255);
     PlayerTextDrawFont(playerid, MechMinigameTD[playerid][2], 4);
+    PlayerTextDrawSetProportional(playerid, MechMinigameTD[playerid][2], 1);
 
     // TD[3] = Progress Background
     MechMinigameTD[playerid][3] = CreatePlayerTextDraw(playerid, 240.0, 405.0, "LD_SPAC:white");
-    PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][3], 160.0, 5.0);
-    PlayerTextDrawColor(playerid, MechMinigameTD[playerid][3], 0x333333FF); // Dark Grey
+    PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][3], 160.0, 8.0);
+    PlayerTextDrawAlignment(playerid, MechMinigameTD[playerid][3], 1);
+    PlayerTextDrawColor(playerid, MechMinigameTD[playerid][3], 0x444444FF); // Dark grey
+    PlayerTextDrawSetShadow(playerid, MechMinigameTD[playerid][3], 0);
+    PlayerTextDrawSetOutline(playerid, MechMinigameTD[playerid][3], 0);
+    PlayerTextDrawBackgroundColor(playerid, MechMinigameTD[playerid][3], 255);
     PlayerTextDrawFont(playerid, MechMinigameTD[playerid][3], 4);
+    PlayerTextDrawSetProportional(playerid, MechMinigameTD[playerid][3], 1);
 
-    // TD[4] = Progress Fill
+    // TD[4] = Progress Fill (KUNING)
     MechMinigameTD[playerid][4] = CreatePlayerTextDraw(playerid, 240.0, 405.0, "LD_SPAC:white");
-    PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][4], 0.0, 5.0);
-    PlayerTextDrawColor(playerid, MechMinigameTD[playerid][4], 0x00FF00FF); // Green for progress
+    PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][4], 0.0, 8.0);
+    PlayerTextDrawAlignment(playerid, MechMinigameTD[playerid][4], 1);
+    PlayerTextDrawColor(playerid, MechMinigameTD[playerid][4], 0xFFFF00FF); // Yellow for progress
+    PlayerTextDrawSetShadow(playerid, MechMinigameTD[playerid][4], 0);
+    PlayerTextDrawSetOutline(playerid, MechMinigameTD[playerid][4], 0);
+    PlayerTextDrawBackgroundColor(playerid, MechMinigameTD[playerid][4], 255);
     PlayerTextDrawFont(playerid, MechMinigameTD[playerid][4], 4);
+    PlayerTextDrawSetProportional(playerid, MechMinigameTD[playerid][4], 1);
 
     // TD[5] = Instruction Text
-    MechMinigameTD[playerid][5] = CreatePlayerTextDraw(playerid, 320.0, 415.0, "Tekan ~y~[Y]~w~ saat jarum di area ~g~HIJAU");
-    PlayerTextDrawLetterSize(playerid, MechMinigameTD[playerid][5], 0.2, 1.0);
+    MechMinigameTD[playerid][5] = CreatePlayerTextDraw(playerid, 320.0, 418.0, "Tekan ~y~[Y]~w~ saat jarum di area ~g~HIJAU");
+    PlayerTextDrawLetterSize(playerid, MechMinigameTD[playerid][5], 0.25, 1.2);
     PlayerTextDrawAlignment(playerid, MechMinigameTD[playerid][5], 2);
     PlayerTextDrawColor(playerid, MechMinigameTD[playerid][5], -1);
-    PlayerTextDrawFont(playerid, MechMinigameTD[playerid][5], 1);
+    PlayerTextDrawSetShadow(playerid, MechMinigameTD[playerid][5], 0);
     PlayerTextDrawSetOutline(playerid, MechMinigameTD[playerid][5], 1);
+    PlayerTextDrawBackgroundColor(playerid, MechMinigameTD[playerid][5], 150);
+    PlayerTextDrawFont(playerid, MechMinigameTD[playerid][5], 1);
+    PlayerTextDrawSetProportional(playerid, MechMinigameTD[playerid][5], 1);
     return 1;
 }
 
@@ -80,9 +108,9 @@ public UpdateMechanicMinigame(playerid)
     if(AccountData[playerid][pMinigameDirection] == 1) // Right
     {
         AccountData[playerid][pMinigameIndicatorPos] += speed;
-        if(AccountData[playerid][pMinigameIndicatorPos] >= 396.0) 
+        if(AccountData[playerid][pMinigameIndicatorPos] >= 394.0) 
         {
-            AccountData[playerid][pMinigameIndicatorPos] = 396.0;
+            AccountData[playerid][pMinigameIndicatorPos] = 394.0;
             AccountData[playerid][pMinigameDirection] = 0;
         }
     }
@@ -96,15 +124,19 @@ public UpdateMechanicMinigame(playerid)
         }
     }
 
-    // Update indicator position - HIDE then SHOW untuk fix visibility
+    // Update indicator position
     PlayerTextDrawHide(playerid, MechMinigameTD[playerid][2]);
-    
-    // Destroy and recreate untuk fix visibility issue
     PlayerTextDrawDestroy(playerid, MechMinigameTD[playerid][2]);
+    
     MechMinigameTD[playerid][2] = CreatePlayerTextDraw(playerid, AccountData[playerid][pMinigameIndicatorPos], 380.0, "LD_SPAC:white");
-    PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][2], 4.0, 20.0);
-    PlayerTextDrawColor(playerid, MechMinigameTD[playerid][2], 0xFFFFFFFF); // White
+    PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][2], 6.0, 20.0);
+    PlayerTextDrawAlignment(playerid, MechMinigameTD[playerid][2], 1);
+    PlayerTextDrawColor(playerid, MechMinigameTD[playerid][2], 0xFFFFFFFF); // WHITE
+    PlayerTextDrawSetShadow(playerid, MechMinigameTD[playerid][2], 0);
+    PlayerTextDrawSetOutline(playerid, MechMinigameTD[playerid][2], 0);
+    PlayerTextDrawBackgroundColor(playerid, MechMinigameTD[playerid][2], 255);
     PlayerTextDrawFont(playerid, MechMinigameTD[playerid][2], 4);
+    PlayerTextDrawSetProportional(playerid, MechMinigameTD[playerid][2], 1);
     PlayerTextDrawShow(playerid, MechMinigameTD[playerid][2]);
     
     return 1;
@@ -122,32 +154,43 @@ stock StartMechanicMinigame(playerid, type, wheel = -1)
     // Calculate target zone size based on skill
     // LOW skill = SMALLER target (HARDER)
     // HIGH skill = BIGGER target (EASIER - reward for leveling up)
-    new Float:targetSize = 15.0 + (float(AccountData[playerid][pMechSkill]) * 1.0);
-    if(targetSize < 10.0) targetSize = 10.0; // Min 10px
-    if(targetSize > 50.0) targetSize = 50.0; // Max 50px for high level
+    new Float:targetSize = 15.0 + (float(AccountData[playerid][pMechSkill]) * 1.5);
+    if(targetSize < 15.0) targetSize = 15.0; // Min 15px
+    if(targetSize > 60.0) targetSize = 60.0; // Max 60px for high level
 
     // Randomize target zone position
     new Float:barWidth = 160.0;
-    new Float:maxStart = 240.0 + (barWidth - targetSize);
-    AccountData[playerid][pMinigameTargetMin] = 240.0 + float(random(floatround(maxStart - 240.0)));
+    new Float:maxStart = barWidth - targetSize;
+    AccountData[playerid][pMinigameTargetMin] = 240.0 + float(random(floatround(maxStart)));
     AccountData[playerid][pMinigameTargetMax] = AccountData[playerid][pMinigameTargetMin] + targetSize;
 
     // Update target zone textdraw
     PlayerTextDrawHide(playerid, MechMinigameTD[playerid][1]);
     PlayerTextDrawDestroy(playerid, MechMinigameTD[playerid][1]);
+    
     MechMinigameTD[playerid][1] = CreatePlayerTextDraw(playerid, AccountData[playerid][pMinigameTargetMin], 380.0, "LD_SPAC:white");
     PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][1], targetSize, 20.0);
+    PlayerTextDrawAlignment(playerid, MechMinigameTD[playerid][1], 1);
     PlayerTextDrawColor(playerid, MechMinigameTD[playerid][1], 0x00FF00FF); // GREEN
+    PlayerTextDrawSetShadow(playerid, MechMinigameTD[playerid][1], 0);
+    PlayerTextDrawSetOutline(playerid, MechMinigameTD[playerid][1], 0);
+    PlayerTextDrawBackgroundColor(playerid, MechMinigameTD[playerid][1], 255);
     PlayerTextDrawFont(playerid, MechMinigameTD[playerid][1], 4);
+    PlayerTextDrawSetProportional(playerid, MechMinigameTD[playerid][1], 1);
     PlayerTextDrawShow(playerid, MechMinigameTD[playerid][1]);
     
     // Reset progress bar
     PlayerTextDrawHide(playerid, MechMinigameTD[playerid][4]);
     PlayerTextDrawDestroy(playerid, MechMinigameTD[playerid][4]);
     MechMinigameTD[playerid][4] = CreatePlayerTextDraw(playerid, 240.0, 405.0, "LD_SPAC:white");
-    PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][4], 0.0, 5.0);
-    PlayerTextDrawColor(playerid, MechMinigameTD[playerid][4], 0x00FF00FF); // Green
+    PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][4], 0.0, 8.0);
+    PlayerTextDrawAlignment(playerid, MechMinigameTD[playerid][4], 1);
+    PlayerTextDrawColor(playerid, MechMinigameTD[playerid][4], 0xFFFF00FF); // Yellow
+    PlayerTextDrawSetShadow(playerid, MechMinigameTD[playerid][4], 0);
+    PlayerTextDrawSetOutline(playerid, MechMinigameTD[playerid][4], 0);
+    PlayerTextDrawBackgroundColor(playerid, MechMinigameTD[playerid][4], 255);
     PlayerTextDrawFont(playerid, MechMinigameTD[playerid][4], 4);
+    PlayerTextDrawSetProportional(playerid, MechMinigameTD[playerid][4], 1);
 
     // Show all textdraws
     for(new i = 0; i < 6; i++) PlayerTextDrawShow(playerid, MechMinigameTD[playerid][i]);
@@ -174,8 +217,8 @@ hook OnPlayerKeyStateChange(playerid, newkeys, oldkeys)
 {
     if(AccountData[playerid][pMinigameActive] != MECH_MINIGAME_NONE && (newkeys & KEY_YES))
     {
-        // Check if indicator is in target zone (with small tolerance for fairness)
-        new Float:indicatorCenter = AccountData[playerid][pMinigameIndicatorPos] + 2.0; // Center of 4px indicator
+        // Check if indicator is in target zone
+        new Float:indicatorCenter = AccountData[playerid][pMinigameIndicatorPos] + 3.0; // Center of 6px indicator
         
         if(indicatorCenter >= AccountData[playerid][pMinigameTargetMin] && 
            indicatorCenter <= AccountData[playerid][pMinigameTargetMax])
@@ -188,9 +231,14 @@ hook OnPlayerKeyStateChange(playerid, newkeys, oldkeys)
             PlayerTextDrawHide(playerid, MechMinigameTD[playerid][4]);
             PlayerTextDrawDestroy(playerid, MechMinigameTD[playerid][4]);
             MechMinigameTD[playerid][4] = CreatePlayerTextDraw(playerid, 240.0, 405.0, "LD_SPAC:white");
-            PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][4], progressWidth, 5.0);
-            PlayerTextDrawColor(playerid, MechMinigameTD[playerid][4], 0x00FF00FF); // Green
+            PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][4], progressWidth, 8.0);
+            PlayerTextDrawAlignment(playerid, MechMinigameTD[playerid][4], 1);
+            PlayerTextDrawColor(playerid, MechMinigameTD[playerid][4], 0xFFFF00FF); // Yellow
+            PlayerTextDrawSetShadow(playerid, MechMinigameTD[playerid][4], 0);
+            PlayerTextDrawSetOutline(playerid, MechMinigameTD[playerid][4], 0);
+            PlayerTextDrawBackgroundColor(playerid, MechMinigameTD[playerid][4], 255);
             PlayerTextDrawFont(playerid, MechMinigameTD[playerid][4], 4);
+            PlayerTextDrawSetProportional(playerid, MechMinigameTD[playerid][4], 1);
             PlayerTextDrawShow(playerid, MechMinigameTD[playerid][4]);
             
             GameTextForPlayer(playerid, "~g~SUCCESS!", 1000, 3);
@@ -205,14 +253,13 @@ hook OnPlayerKeyStateChange(playerid, newkeys, oldkeys)
             }
 
             // Randomize target zone again for next hit
-            // HIGH skill = BIGGER target (EASIER)
-            new Float:targetSize = 15.0 + (float(AccountData[playerid][pMechSkill]) * 1.0);
-            if(targetSize < 10.0) targetSize = 10.0;
-            if(targetSize > 50.0) targetSize = 50.0;
+            new Float:targetSize = 15.0 + (float(AccountData[playerid][pMechSkill]) * 1.5);
+            if(targetSize < 15.0) targetSize = 15.0;
+            if(targetSize > 60.0) targetSize = 60.0;
 
             new Float:barWidth = 160.0;
-            new Float:maxStart = 240.0 + (barWidth - targetSize);
-            AccountData[playerid][pMinigameTargetMin] = 240.0 + float(random(floatround(maxStart - 240.0)));
+            new Float:maxStart = barWidth - targetSize;
+            AccountData[playerid][pMinigameTargetMin] = 240.0 + float(random(floatround(maxStart)));
             AccountData[playerid][pMinigameTargetMax] = AccountData[playerid][pMinigameTargetMin] + targetSize;
             
             // Update target zone
@@ -220,8 +267,13 @@ hook OnPlayerKeyStateChange(playerid, newkeys, oldkeys)
             PlayerTextDrawDestroy(playerid, MechMinigameTD[playerid][1]);
             MechMinigameTD[playerid][1] = CreatePlayerTextDraw(playerid, AccountData[playerid][pMinigameTargetMin], 380.0, "LD_SPAC:white");
             PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][1], targetSize, 20.0);
+            PlayerTextDrawAlignment(playerid, MechMinigameTD[playerid][1], 1);
             PlayerTextDrawColor(playerid, MechMinigameTD[playerid][1], 0x00FF00FF); // GREEN
+            PlayerTextDrawSetShadow(playerid, MechMinigameTD[playerid][1], 0);
+            PlayerTextDrawSetOutline(playerid, MechMinigameTD[playerid][1], 0);
+            PlayerTextDrawBackgroundColor(playerid, MechMinigameTD[playerid][1], 255);
             PlayerTextDrawFont(playerid, MechMinigameTD[playerid][1], 4);
+            PlayerTextDrawSetProportional(playerid, MechMinigameTD[playerid][1], 1);
             PlayerTextDrawShow(playerid, MechMinigameTD[playerid][1]);
 
             if(AccountData[playerid][pMinigameProgress] >= 100.0)
@@ -235,14 +287,12 @@ hook OnPlayerKeyStateChange(playerid, newkeys, oldkeys)
                 
                 if(type == MECH_MINIGAME_OIL)
                 {
-                    // Call the original finish logic for Oil
-                    AccountData[playerid][ActivityTime] = 10; // Set to max to trigger finish
+                    AccountData[playerid][ActivityTime] = 10;
                     OilChange(playerid, vehicleid);
                 }
                 else if(type == MECH_MINIGAME_TIRE)
                 {
-                    // Call the original finish logic for Tire
-                    AccountData[playerid][ActivityTime] = 10; // Set to max to trigger finish
+                    AccountData[playerid][ActivityTime] = 10;
                     TireReplace(playerid, vehicleid, wheel);
                 }
             }
@@ -259,9 +309,14 @@ hook OnPlayerKeyStateChange(playerid, newkeys, oldkeys)
             PlayerTextDrawHide(playerid, MechMinigameTD[playerid][4]);
             PlayerTextDrawDestroy(playerid, MechMinigameTD[playerid][4]);
             MechMinigameTD[playerid][4] = CreatePlayerTextDraw(playerid, 240.0, 405.0, "LD_SPAC:white");
-            PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][4], progressWidth, 5.0);
-            PlayerTextDrawColor(playerid, MechMinigameTD[playerid][4], 0x00FF00FF);
+            PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][4], progressWidth, 8.0);
+            PlayerTextDrawAlignment(playerid, MechMinigameTD[playerid][4], 1);
+            PlayerTextDrawColor(playerid, MechMinigameTD[playerid][4], 0xFFFF00FF);
+            PlayerTextDrawSetShadow(playerid, MechMinigameTD[playerid][4], 0);
+            PlayerTextDrawSetOutline(playerid, MechMinigameTD[playerid][4], 0);
+            PlayerTextDrawBackgroundColor(playerid, MechMinigameTD[playerid][4], 255);
             PlayerTextDrawFont(playerid, MechMinigameTD[playerid][4], 4);
+            PlayerTextDrawSetProportional(playerid, MechMinigameTD[playerid][4], 1);
             PlayerTextDrawShow(playerid, MechMinigameTD[playerid][4]);
         }
     }
