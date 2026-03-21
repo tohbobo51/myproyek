@@ -23,10 +23,10 @@ hook OnPlayerConnect(playerid)
     PlayerTextDrawColor(playerid, MechMinigameTD[playerid][0], 255); // Black
     PlayerTextDrawFont(playerid, MechMinigameTD[playerid][0], 4);
 
-    // TD[1] = Target Zone (KUNING/TIPIS - bukan hijau lebar)
+    // TD[1] = Target Zone (HIJAU - makin tinggi level makin besar)
     MechMinigameTD[playerid][1] = CreatePlayerTextDraw(playerid, 290.0, 380.0, "LD_SPAC:white");
     PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][1], 15.0, 20.0); // Default 15px width
-    PlayerTextDrawColor(playerid, MechMinigameTD[playerid][1], 0xFFFF00FF); // YELLOW (bukan hijau)
+    PlayerTextDrawColor(playerid, MechMinigameTD[playerid][1], 0x00FF00FF); // GREEN (hijau)
     PlayerTextDrawFont(playerid, MechMinigameTD[playerid][1], 4);
 
     // TD[2] = Moving Indicator (PUTIH - lebih kelihatan)
@@ -48,7 +48,7 @@ hook OnPlayerConnect(playerid)
     PlayerTextDrawFont(playerid, MechMinigameTD[playerid][4], 4);
 
     // TD[5] = Instruction Text
-    MechMinigameTD[playerid][5] = CreatePlayerTextDraw(playerid, 320.0, 415.0, "Tekan ~y~[Y]~w~ saat jarum di area ~y~KUNING");
+    MechMinigameTD[playerid][5] = CreatePlayerTextDraw(playerid, 320.0, 415.0, "Tekan ~y~[Y]~w~ saat jarum di area ~g~HIJAU");
     PlayerTextDrawLetterSize(playerid, MechMinigameTD[playerid][5], 0.2, 1.0);
     PlayerTextDrawAlignment(playerid, MechMinigameTD[playerid][5], 2);
     PlayerTextDrawColor(playerid, MechMinigameTD[playerid][5], -1);
@@ -71,9 +71,11 @@ public UpdateMechanicMinigame(playerid)
 {
     if(!AccountData[playerid][pMinigameActive]) return 0;
 
-    // Get speed based on skill (higher skill = faster = harder)
-    new Float:speed = 3.0 + (float(AccountData[playerid][pMechSkill]) * 0.3);
-    if(speed > 8.0) speed = 8.0; // Max speed cap
+    // Get speed based on skill (LOWER skill = FASTER = HARDER)
+    // HIGHER skill = SLOWER = EASIER
+    new Float:speed = 6.0 - (float(AccountData[playerid][pMechSkill]) * 0.3);
+    if(speed < 2.0) speed = 2.0; // Min speed (easy for high level)
+    if(speed > 8.0) speed = 8.0; // Max speed (hard for low level)
 
     if(AccountData[playerid][pMinigameDirection] == 1) // Right
     {
@@ -118,11 +120,11 @@ stock StartMechanicMinigame(playerid, type, wheel = -1)
     AccountData[playerid][pMinigameDirection] = 1;
     
     // Calculate target zone size based on skill
-    // LOW skill = BIGGER target (EASIER)
-    // HIGH skill = SMALLER target (HARDER - more challenge for pros)
-    new Float:targetSize = 25.0 - (float(AccountData[playerid][pMechSkill]) * 0.8);
-    if(targetSize < 10.0) targetSize = 10.0; // Min 10px (still hittable)
-    if(targetSize > 30.0) targetSize = 30.0; // Max 30px for beginners
+    // LOW skill = SMALLER target (HARDER)
+    // HIGH skill = BIGGER target (EASIER - reward for leveling up)
+    new Float:targetSize = 15.0 + (float(AccountData[playerid][pMechSkill]) * 1.0);
+    if(targetSize < 10.0) targetSize = 10.0; // Min 10px
+    if(targetSize > 50.0) targetSize = 50.0; // Max 50px for high level
 
     // Randomize target zone position
     new Float:barWidth = 160.0;
@@ -135,7 +137,7 @@ stock StartMechanicMinigame(playerid, type, wheel = -1)
     PlayerTextDrawDestroy(playerid, MechMinigameTD[playerid][1]);
     MechMinigameTD[playerid][1] = CreatePlayerTextDraw(playerid, AccountData[playerid][pMinigameTargetMin], 380.0, "LD_SPAC:white");
     PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][1], targetSize, 20.0);
-    PlayerTextDrawColor(playerid, MechMinigameTD[playerid][1], 0xFFFF00FF); // YELLOW
+    PlayerTextDrawColor(playerid, MechMinigameTD[playerid][1], 0x00FF00FF); // GREEN
     PlayerTextDrawFont(playerid, MechMinigameTD[playerid][1], 4);
     PlayerTextDrawShow(playerid, MechMinigameTD[playerid][1]);
     
@@ -203,9 +205,10 @@ hook OnPlayerKeyStateChange(playerid, newkeys, oldkeys)
             }
 
             // Randomize target zone again for next hit
-            new Float:targetSize = 25.0 - (float(AccountData[playerid][pMechSkill]) * 0.8);
+            // HIGH skill = BIGGER target (EASIER)
+            new Float:targetSize = 15.0 + (float(AccountData[playerid][pMechSkill]) * 1.0);
             if(targetSize < 10.0) targetSize = 10.0;
-            if(targetSize > 30.0) targetSize = 30.0;
+            if(targetSize > 50.0) targetSize = 50.0;
 
             new Float:barWidth = 160.0;
             new Float:maxStart = 240.0 + (barWidth - targetSize);
@@ -217,7 +220,7 @@ hook OnPlayerKeyStateChange(playerid, newkeys, oldkeys)
             PlayerTextDrawDestroy(playerid, MechMinigameTD[playerid][1]);
             MechMinigameTD[playerid][1] = CreatePlayerTextDraw(playerid, AccountData[playerid][pMinigameTargetMin], 380.0, "LD_SPAC:white");
             PlayerTextDrawTextSize(playerid, MechMinigameTD[playerid][1], targetSize, 20.0);
-            PlayerTextDrawColor(playerid, MechMinigameTD[playerid][1], 0xFFFF00FF); // YELLOW
+            PlayerTextDrawColor(playerid, MechMinigameTD[playerid][1], 0x00FF00FF); // GREEN
             PlayerTextDrawFont(playerid, MechMinigameTD[playerid][1], 4);
             PlayerTextDrawShow(playerid, MechMinigameTD[playerid][1]);
 
