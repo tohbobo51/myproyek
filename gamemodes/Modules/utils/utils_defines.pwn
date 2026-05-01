@@ -4,14 +4,14 @@
 #define SERVER_BOT      "ARP Security"
 #define SERVER_NAME     "Aeterna Roleplay"
 
-#define		MYSQL_HOST 			"localhost"
-#define		MYSQL_USER 			"root"
-#define		MYSQL_PASSWORD 		""
-#define		MYSQL_DATABASE 		"hendiganteng"
+#define		MYSQL_HOST 			"15.235.173.7"
+#define		MYSQL_USER 			"u158203_RTCIXZZu5I"
+#define		MYSQL_PASSWORD 		"1pYSFW!nPfkX8sK7V5=!f7pE"
+#define		MYSQL_DATABASE 		"s158203_db1777616825326"
 
 // #define		MYSQL_HOST 			"localhost"
 // #define		MYSQL_USER 			"root"
-// #define		MYSQL_PASSWORD 		""
+// #define		MYSQL_PASSWORD 		"1pYSFW!nPfkX8sK7V5=!f7pE"
 // #define		MYSQL_DATABASE 		"aedb"
 
 #if !defined gpci
