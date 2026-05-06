@@ -22,8 +22,11 @@ jobs:
           sudo apt-get install -y libc6:i386 libstdc++6:i386
           wget https://github.com/pawn-lang/compiler/releases/download/v3.10.10/pawnc-3.10.10-linux.tar.gz
           tar -xzf pawnc-3.10.10-linux.tar.gz
-          sudo mv pawnc-3.10.10-linux/bin/pawncc /usr/local/bin/
+          # Pindahkan compiler dan library-nya ke tempat yang benar
+          sudo cp pawnc-3.10.10-linux/bin/pawncc /usr/local/bin/
+          sudo cp pawnc-3.10.10-linux/lib/libpawnc.so /usr/local/lib/
           sudo chmod +x /usr/local/bin/pawncc
+          sudo ldconfig
 
       - name: Compile Gamemode
         run: |
