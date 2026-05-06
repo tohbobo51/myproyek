@@ -15,18 +15,24 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup PAWN Compiler
+      - name: Setup PAWN Compiler & Includes
         run: |
           sudo dpkg --add-architecture i386
           sudo apt-get update
           sudo apt-get install -y libc6:i386 libstdc++6:i386
+          
+          # Download compiler
           wget https://github.com/pawn-lang/compiler/releases/download/v3.10.10/pawnc-3.10.10-linux.tar.gz
           tar -xzf pawnc-3.10.10-linux.tar.gz
-          # Pindahkan compiler dan library-nya ke tempat yang benar
           sudo cp pawnc-3.10.10-linux/bin/pawncc /usr/local/bin/
           sudo cp pawnc-3.10.10-linux/lib/libpawnc.so /usr/local/lib/
           sudo chmod +x /usr/local/bin/pawncc
           sudo ldconfig
+          
+          # Download standard SA-MP includes since they are missing in the repo
+          mkdir -p pawno/include
+          wget -qO- https://github.com/pawn-lang/samp-stdlib/archive/refs/tags/v0.3.7-R2-1-1.tar.gz | tar xz
+          cp -r samp-stdlib-0.3.7-R2-1-1/* pawno/include/
 
       - name: Compile Gamemode
         run: |
