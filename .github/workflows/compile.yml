@@ -28,7 +28,7 @@ jobs:
       - name: Compile Gamemode
         run: |
           cd gamemodes
-          pawncc Main.pwn -i../pawno/include -oMain.amx -Z+ -;+ -(+
+          pawncc Main.pwn -i../pawno/include -oMain.amx "-Z+" "-;+" "-(+"
 
       - name: Upload AMX Artifact
         uses: actions/upload-artifact@v4
