@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup PAWN Compiler
         run: |
@@ -31,7 +31,7 @@ jobs:
           pawncc Main.pwn -i../pawno/include -oMain.amx -Z+ -;+ -(+
 
       - name: Upload AMX Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: Gamemode-AMX
           path: gamemodes/Main.amx
