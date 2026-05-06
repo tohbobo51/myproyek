@@ -1,0 +1,37 @@
+name: Compile SA-MP Gamemode
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup PAWN Compiler
+        run: |
+          sudo dpkg --add-architecture i386
+          sudo apt-get update
+          sudo apt-get install -y libc6:i386 libstdc++6:i386
+          wget https://github.com/pawn-lang/compiler/releases/download/v3.10.10/pawnc-3.10.10-linux.tar.gz
+          tar -xzf pawnc-3.10.10-linux.tar.gz
+          sudo mv pawnc-3.10.10-linux/bin/pawncc /usr/local/bin/
+          sudo chmod +x /usr/local/bin/pawncc
+
+      - name: Compile Gamemode
+        run: |
+          cd gamemodes
+          pawncc Main.pwn -i../pawno/include -oMain.amx -Z+ -;+ -(+
+
+      - name: Upload AMX Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: Gamemode-AMX
+          path: gamemodes/Main.amx
